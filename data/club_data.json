@@ -1,0 +1,1937 @@
+{
+  "clubs": [
+    {
+      "club_id": "animeuts",
+      "name": "Anime@UTS",
+      "url": "https://www.activateuts.com.au/clubs/animeuts/",
+      "events": null
+    },
+    {
+      "club_id": "armenian-students-association",
+      "name": "Armenian Students Association",
+      "url": "https://www.activateuts.com.au/clubs/armenian-students-association/",
+      "events": null
+    },
+    {
+      "club_id": "aiesec",
+      "name": "AIESEC",
+      "url": "https://www.activateuts.com.au/clubs/aiesec/",
+      "events": null
+    },
+    {
+      "club_id": "australasian-union-of-jewish-students-aujs",
+      "name": "Australasian Union of Jewish Students (AUJS)",
+      "url": "https://www.activateuts.com.au/clubs/australasian-union-of-jewish-students-aujs/",
+      "events": null
+    },
+    {
+      "club_id": "backstage",
+      "name": "Backstage",
+      "url": "https://www.activateuts.com.au/clubs/backstage/",
+      "events": null
+    },
+    {
+      "club_id": "aerial-society",
+      "name": "Aerial Society",
+      "url": "https://www.activateuts.com.au/clubs/aerial-society/",
+      "events": null
+    },
+    {
+      "club_id": "bird-spotting-society",
+      "name": "Bird Spotting Society (BirdSoc)",
+      "url": "https://www.activateuts.com.au/clubs/bird-spotting-society/",
+      "events": null
+    },
+    {
+      "club_id": "built-environment-association",
+      "name": "Built Environment Association (BEA)",
+      "url": "https://www.activateuts.com.au/clubs/built-environment-association/",
+      "events": [
+        {
+          "id": 456482,
+          "title": "Professional Linkedin Headshot & Inter-Club Networking Event",
+          "url": "https://www.activateuts.com.au/events/professional-linkedin-headshot-inter-club-networking-event/",
+          "start_date": "23/04/2025 6:00 pm",
+          "end_date": "23/04/2025 8:30 pm",
+          "desc": "<p>Join us for an exciting Professional LinkedIn Headshot session with a cross-faculty networking event bringing together UTS DAB and Business School with REISA and BEA students!</p>\n<p>Connect with future collaborators, explore creative and commercial synergies. It&rsquo;s a chance to spark ideas, build your network, and shape your future. Don&rsquo;t miss out!</p>\n<p>See below for ticket purchases:</p>\n<p>BEA Members &ndash; $0.49<br />REISA UTS Members / Student Tickets &ndash; $4.99<br />REISA USYD &amp; UNSW Members &ndash; $5.99<br /><span style=\"font-size: 1.125rem;\">Public and Alumni &ndash; $5.99</span></p>\n<p>&nbsp;</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "beta-alpha-psi",
+      "name": "Beta Alpha Psi",
+      "url": "https://www.activateuts.com.au/clubs/beta-alpha-psi/",
+      "events": null
+    },
+    {
+      "club_id": "business-society",
+      "name": "Business Society",
+      "url": "https://www.activateuts.com.au/clubs/business-society/",
+      "events": [
+        {
+          "id": 454980,
+          "title": "BSOC x LSS Cruise Party",
+          "url": "https://www.activateuts.com.au/events/bsoc-x-lss-cruise-party/",
+          "start_date": "09/05/2025 6:30 pm",
+          "end_date": "09/05/2025 11:00 pm",
+          "desc": "<h2>UTS BSOC x LSS CRUISE 2025: CALL OF THE WILD</h2>\n<h3>Calling all members to get wild with BSOC and LSS!!</h3>\n<p>Friday May 9th We&rsquo;re setting sail aboard a 130ft luxury vessel from King St Wharf.</p>\n<p>Dust off the feather boas, pull out your animal print and trot, fly or float your way to the best party in the jungle!</p>\n<p>Whether it&rsquo;s faux fur, feathers, or fluorescent we wanna see some wild outfits!</p>\n<p>Did somebody say AFTER PARTY?! Stick around after we disembark, just cause the boat stops doesn&rsquo;t mean we do</p>\n<h4>What will your ticket get you?</h4>\n<ul>\n<li>3-hour cruise around Sydney Harbour</li>\n<li>Unlimited bar tab</li>\n<li>Delicious (and free) food</li>\n<li>Entry to our After Party</li>\n</ul>\n<h4>Event Details:</h4>\n<ul>\n<li>DATE: Friday, 9 May 2025</li>\n<li>TIME: 7:30pm &ndash; 11:00pm (the After Party will follow after this)</li>\n<li>STARTING LOCATION: King Street Wharf</li>\n<li>THEME: CALL OF THE WILD</li>\n<li>Tickets:\n<ul>\n<li>PRICE (First release &ndash; members only): $70</li>\n<li>PRICE (Second release): $75</li>\n<li>PRICE (Third release): $80</li>\n</ul>\n</li>\n</ul>\n<p>This event is under-18 friendly!</p>\n<p>SEE YOU ALL THERE!!</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "chess-club",
+      "name": "Chess Club",
+      "url": "https://www.activateuts.com.au/clubs/chess-club/",
+      "events": null
+    },
+    {
+      "club_id": "catholic-society",
+      "name": "Catholic Society",
+      "url": "https://www.activateuts.com.au/clubs/catholic-society/",
+      "events": null
+    },
+    {
+      "club_id": "chinese-students-scholars-association-cssa",
+      "name": "Chinese Students & Scholars Association (CSSA)",
+      "url": "https://www.activateuts.com.au/clubs/chinese-students-scholars-association-cssa/",
+      "events": null
+    },
+    {
+      "club_id": "ciao-uts",
+      "name": "CIAO UTS",
+      "url": "https://www.activateuts.com.au/clubs/ciao-uts/",
+      "events": null
+    },
+    {
+      "club_id": "consulting-club",
+      "name": "Consulting Club",
+      "url": "https://www.activateuts.com.au/clubs/consulting-club/",
+      "events": null
+    },
+    {
+      "club_id": "chopstix-fellowship",
+      "name": "Chopstix Fellowship",
+      "url": "https://www.activateuts.com.au/clubs/chopstix-fellowship/",
+      "events": null
+    },
+    {
+      "club_id": "comedy-revue-and-performing-society",
+      "name": "Comedy, Revue and Performance Society",
+      "url": "https://www.activateuts.com.au/clubs/comedy-revue-and-performing-society/",
+      "events": null
+    },
+    {
+      "club_id": "criminology-society-uts-crimsoc",
+      "name": "Criminology Society",
+      "url": "https://www.activateuts.com.au/clubs/criminology-society-uts-crimsoc/",
+      "events": [
+        {
+          "id": 452782,
+          "title": "Escape Room Adventure with EscapeHunt",
+          "url": "https://www.activateuts.com.au/events/escape-room-adventure-with-escapehunt/",
+          "start_date": "09/05/2025 6:15 pm",
+          "end_date": "09/05/2025 8:00 pm",
+          "desc": "<h2>Step into the world of mystery, puzzles, and high-stakes decision-making with the UTS Criminology Society!</h2>\n<p><span style=\"font-weight: 400;\">Join us for an adrenaline-pumping escape room experience at Escape Hunt Sydney, where you and your team will be locked in a themed room and must work together to uncover clues, crack codes, and solve mind-bending puzzles before time runs out. Whether you&rsquo;re a seasoned escape room enthusiast or a first-timer, this event promises a night of excitement, strategy, and fun!</span></p>\n<ul>\n<li><span style=\"font-weight: 400;\">Location: Escape Hunt Sydney &ndash; 4/393 George St, Sydney NSW 2000</span></li>\n<li>Time: 6:15 PM, Thursday, 9th May</li>\n<li>Spots are limited&mdash;book now to secure your place!</li>\n</ul>\n<p><span style=\"font-weight: 400;\">Think you have what it takes to escape? Let&rsquo;s find out!</span></p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "credo-christ-for-uts",
+      "name": "CREDO (Christ for UTS)",
+      "url": "https://www.activateuts.com.au/clubs/credo-christ-for-uts/",
+      "events": null
+    },
+    {
+      "club_id": "debating-society",
+      "name": "Debating Society",
+      "url": "https://www.activateuts.com.au/clubs/debating-society/",
+      "events": null
+    },
+    {
+      "club_id": "design-society",
+      "name": "Design Society",
+      "url": "https://www.activateuts.com.au/clubs/design-society/",
+      "events": [
+        {
+          "id": 453464,
+          "title": "Bear-ly Hanging On Pt.2: Rosie Teddy Plushie Beaded Keychain Workshop (KUTS x DZN)",
+          "url": "https://www.activateuts.com.au/events/bear-ly-hanging-on-pt-2-rosie-teddy-plushie-beaded-keychain-workshop-kuts-x-dzn/",
+          "start_date": "28/04/2025 3:30 pm",
+          "end_date": "28/04/2025 5:00 pm",
+          "desc": "<p>Assemble and decorate your own Rosie Teddy plush charm.</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "dinner-society",
+      "name": "Dinner Society",
+      "url": "https://www.activateuts.com.au/clubs/dinner-society/",
+      "events": [
+        {
+          "id": 454558,
+          "title": "Dinner Society SGM",
+          "url": "https://www.activateuts.com.au/events/dinner-society-sgm/",
+          "start_date": "25/04/2025 5:30 pm",
+          "end_date": "25/04/2025 6:30 pm",
+          "desc": "<p>The Dinner Society&#8217;s Special General Meeting focusing on electing a new Secretary</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "drawing-circle",
+      "name": "Drawing Circle",
+      "url": "https://www.activateuts.com.au/clubs/drawing-circle/",
+      "events": [
+        {
+          "id": 452011,
+          "title": "Alt Fashion x Drawing Circle Screenprinting",
+          "url": "https://www.activateuts.com.au/events/alt-fashion-x-drawing-circle-screenprinting/",
+          "start_date": "25/04/2025 12:00 pm",
+          "end_date": "25/04/2025 5:00 pm",
+          "desc": "<h2>Do you have old clothes you want to spice up? Or just wanna get into some screen printing?</h2>\n<h3>Join us this sem at our second Screen Printing sesh!</h3>\n<p>We will be providing scrap fabric to print on, but feel free to bring anything to print on: clothes, bags, fabric, etc. However please keep in mind that the screen printing ink is formulated for natural fibre materials so it won&rsquo;t stick to synthetic materials as well. We recommend printing on materials with over 50% natural fibres! We&rsquo;ve collated your favourite designs from our competition, and we&rsquo;re so excited for you to use them in person!</p>\n<p>Thank you to all artists for submitting! The artists of the screenprints have free entry.</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "falun-dafa-meditation-club",
+      "name": "Falun Dafa Club",
+      "url": "https://www.activateuts.com.au/clubs/falun-dafa-meditation-club/",
+      "events": null
+    },
+    {
+      "club_id": "engineers-without-borders-uts-chapter",
+      "name": "Engineers Without Borders - UTS Chapter",
+      "url": "https://www.activateuts.com.au/clubs/engineers-without-borders-uts-chapter/",
+      "events": null
+    },
+    {
+      "club_id": "fashion-ethics-sustainability-society",
+      "name": "Fashion Ethics Sustainability Society",
+      "url": "https://www.activateuts.com.au/clubs/fashion-ethics-sustainability-society/",
+      "events": null
+    },
+    {
+      "club_id": "film-appreciation-posse",
+      "name": "Film Appreciation Posse",
+      "url": "https://www.activateuts.com.au/clubs/film-appreciation-posse/",
+      "events": null
+    },
+    {
+      "club_id": "furs",
+      "name": "Furs",
+      "url": "https://www.activateuts.com.au/clubs/furs/",
+      "events": null
+    },
+    {
+      "club_id": "gods-people-gp",
+      "name": "God's People (GP)",
+      "url": "https://www.activateuts.com.au/clubs/gods-people-gp/",
+      "events": null
+    },
+    {
+      "club_id": "the-gamers-guild",
+      "name": "Gamers Guild",
+      "url": "https://www.activateuts.com.au/clubs/the-gamers-guild/",
+      "events": null
+    },
+    {
+      "club_id": "hellenic-society",
+      "name": "Hellenic Society",
+      "url": "https://www.activateuts.com.au/clubs/hellenic-society/",
+      "events": null
+    },
+    {
+      "club_id": "hindu-society",
+      "name": "Hindu Society",
+      "url": "https://www.activateuts.com.au/clubs/hindu-society/",
+      "events": null
+    },
+    {
+      "club_id": "hip-hop-society",
+      "name": "Hip Hop Society",
+      "url": "https://www.activateuts.com.au/clubs/hip-hop-society/",
+      "events": null
+    },
+    {
+      "club_id": "hong-kong-macau-student-association",
+      "name": "Hong Kong Macau Student Association",
+      "url": "https://www.activateuts.com.au/clubs/hong-kong-macau-student-association/",
+      "events": null
+    },
+    {
+      "club_id": "hockey",
+      "name": "Hockey",
+      "url": "https://www.activateuts.com.au/clubs/hockey/",
+      "events": null
+    },
+    {
+      "club_id": "i-heart-uni-uts",
+      "name": "I Heart Uni (UTS)",
+      "url": "https://www.activateuts.com.au/clubs/i-heart-uni-uts/",
+      "events": null
+    },
+    {
+      "club_id": "indian-society",
+      "name": "Indian Society",
+      "url": "https://www.activateuts.com.au/clubs/indian-society/",
+      "events": null
+    },
+    {
+      "club_id": "international-vietnamese-students-ivuts",
+      "name": "International Vietnamese Students (iVUTS)",
+      "url": "https://www.activateuts.com.au/clubs/international-vietnamese-students-ivuts/",
+      "events": null
+    },
+    {
+      "club_id": "intents-camping",
+      "name": "Intents (Camping)",
+      "url": "https://www.activateuts.com.au/clubs/intents-camping/",
+      "events": null
+    },
+    {
+      "club_id": "japanese-and-australian-student-society-jass",
+      "name": "Japanese and Australian Student Society (JASS)",
+      "url": "https://www.activateuts.com.au/clubs/japanese-and-australian-student-society-jass/",
+      "events": null
+    },
+    {
+      "club_id": "knits-and-knots",
+      "name": "Knits n Knots",
+      "url": "https://www.activateuts.com.au/clubs/knits-and-knots/",
+      "events": null
+    },
+    {
+      "club_id": "labor-club-alp",
+      "name": "Labor Club (ALP)",
+      "url": "https://www.activateuts.com.au/clubs/labor-club-alp/",
+      "events": null
+    },
+    {
+      "club_id": "lao-student-association",
+      "name": "Lao Student Association",
+      "url": "https://www.activateuts.com.au/clubs/lao-student-association/",
+      "events": null
+    },
+    {
+      "club_id": "liberal-club",
+      "name": "Liberal Club",
+      "url": "https://www.activateuts.com.au/clubs/liberal-club/",
+      "events": null
+    },
+    {
+      "club_id": "law-students-society-lss",
+      "name": "Law Students' Society (LSS)",
+      "url": "https://www.activateuts.com.au/clubs/law-students-society-lss/",
+      "events": null
+    },
+    {
+      "club_id": "literary-society",
+      "name": "Literary Society",
+      "url": "https://www.activateuts.com.au/clubs/literary-society/",
+      "events": null
+    },
+    {
+      "club_id": "malaysian-and-singaporean-student-association-massa",
+      "name": "Malaysian and Singaporean Student Association (MASSA)",
+      "url": "https://www.activateuts.com.au/clubs/malaysian-and-singaporean-student-association-massa/",
+      "events": null
+    },
+    {
+      "club_id": "motorsports-society",
+      "name": "Motorsports Society",
+      "url": "https://www.activateuts.com.au/clubs/motorsports-society/",
+      "events": null
+    },
+    {
+      "club_id": "uts-mun",
+      "name": "Model United Nations",
+      "url": "https://www.activateuts.com.au/clubs/uts-mun/",
+      "events": null
+    },
+    {
+      "club_id": "muslim-society-utsms",
+      "name": "Muslim Society (UTSMS)",
+      "url": "https://www.activateuts.com.au/clubs/muslim-society-utsms/",
+      "events": null
+    },
+    {
+      "club_id": "myanmar-students-association",
+      "name": "Myanmar Students Association (MSA)",
+      "url": "https://www.activateuts.com.au/clubs/myanmar-students-association/",
+      "events": null
+    },
+    {
+      "club_id": "persian-society",
+      "name": "Persian Society",
+      "url": "https://www.activateuts.com.au/clubs/persian-society/",
+      "events": [
+        {
+          "id": 455511,
+          "title": "Workout together 2025",
+          "url": "https://www.activateuts.com.au/events/workout-together-2025-2/",
+          "start_date": "24/04/2025 3:30 pm",
+          "end_date": "24/04/2025 5:00 pm",
+          "desc": "<p>We are going to have Salsa instruction with Armando!</p>\n<p>Please join us at UTS RMSH Dance studio, B04, Level 01!</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "palestinian-youth-society",
+      "name": "Palestinian Youth Society",
+      "url": "https://www.activateuts.com.au/clubs/palestinian-youth-society/",
+      "events": null
+    },
+    {
+      "club_id": "physiotherapy-society",
+      "name": "Physiotherapy Society",
+      "url": "https://www.activateuts.com.au/clubs/physiotherapy-society/",
+      "events": null
+    },
+    {
+      "club_id": "pokemon-club",
+      "name": "Pokémon Club",
+      "url": "https://www.activateuts.com.au/clubs/pokemon-club/",
+      "events": null
+    },
+    {
+      "club_id": "public-speaking-society-utspss",
+      "name": "Public Speaking Society (PSS)",
+      "url": "https://www.activateuts.com.au/clubs/public-speaking-society-utspss/",
+      "events": null
+    },
+    {
+      "club_id": "psychology-society",
+      "name": "Psychology Society",
+      "url": "https://www.activateuts.com.au/clubs/psychology-society/",
+      "events": [
+        {
+          "id": 452789,
+          "title": "Nature and Nurture",
+          "url": "https://www.activateuts.com.au/events/nature-and-nurture/",
+          "start_date": "04/05/2025 10:00 am",
+          "end_date": "04/05/2025 2:00 pm",
+          "desc": "<p>The UTS Psychology Society is hosting a refreshing hike along the Karloo Walking Track in the Royal National Park.</p>\n"
+        },
+        {
+          "id": 456472,
+          "title": "Psychology Society Boat Party",
+          "url": "https://www.activateuts.com.au/events/psychology-society-boat-party/",
+          "start_date": "05/06/2025 6:00 pm",
+          "end_date": "05/06/2025 9:30 pm",
+          "desc": "<h2>Celebrate the end of semester with a boogie at our boat party!</h2>\n<p><strong>Location:</strong> Darling Harbour (specific TBC)</p>\n<p><strong>Time:</strong> boat departs at 5:30pm and returns 9:30pm</p>\n<p>Please come on time!!</p>\n<p><strong>Dress code:</strong> cocktail masquerade theme</p>\n<p><strong>Tickets include:&nbsp;</strong></p>\n<ul>\n<li>Unlimited Beer, Wine, Sparkling and Soft Drinks</li>\n<li>Standing Buffet</li>\n<li>Professional DJ &amp; Nightclub Set Up with Dance Floor with Disco Lights</li>\n</ul>\n<p>IDs will be checked on boarding by licensed security, (so please bring your ID) and if your under 18 you will be given a wristband.</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "puzzle-society",
+      "name": "Puzzle Society",
+      "url": "https://www.activateuts.com.au/clubs/puzzle-society/",
+      "events": [
+        {
+          "id": 456376,
+          "title": "Week 9 Puzzle Hangout",
+          "url": "https://www.activateuts.com.au/events/week-9-puzzle-hangout/",
+          "start_date": "25/04/2025 5:30 pm",
+          "end_date": "25/04/2025 8:00 pm",
+          "desc": "<h2>Puzzle Society is back with our Weekly Hangouts every Friday!</h2>\n<p><span style=\"font-weight: 400;\">Whether you’re a regular or just puzzle-curious, everyone is welcome to join us (</span><em><span style=\"font-weight: 400;\">including non-members</span></em><span style=\"font-weight: 400;\">!).</span></p>\n<p><span style=\"font-weight: 400;\">Our hangouts feature a box-breaking compendium of </span><span style=\"font-weight: 400;\">board games, physical puzzles and Rubik’s Cubes, plus good vibes with music, snacks and casual chats. You can even just chill and study with the ‘soothing’ ambience of puzzling puzzlers if you so desire.</span></p>\n<p><span style=\"font-weight: 400;\">Keep an eye out for special themed &amp; collaborative hangouts throughout the semester.</span></p>\n<p><span style=\"font-weight: 400;\">Bring along your friends, favourite puzzles or activities to share &#8211; or, just bring yourself! Surely you don’t need any more convincing… Come along, wind down with us, and get to know some super awesome people in a chill environment! </span></p>\n<h3>DETAILS</h3>\n<ul>\n<li><span style=\"font-weight: 400;\">Fridays</span></li>\n<li><span style=\"font-weight: 400;\">5:30pm-8pm</span></li>\n<li><span style=\"font-weight: 400;\">CB10.03.480</span><span style=\"font-weight: 400;\"> </span></li>\n</ul>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "rowing",
+      "name": "Rowing",
+      "url": "https://www.activateuts.com.au/clubs/rowing/",
+      "events": null
+    },
+    {
+      "club_id": "robotics-society-robosoc",
+      "name": "Robotics Society (RoboSoc)",
+      "url": "https://www.activateuts.com.au/clubs/robotics-society-robosoc/",
+      "events": [
+        {
+          "id": 450524,
+          "title": "Robot Movie Night!",
+          "url": "https://www.activateuts.com.au/events/robot-movie-night/",
+          "start_date": "01/05/2025 5:00 pm",
+          "end_date": "01/05/2025 7:00 pm",
+          "desc": "<h2>Join us for a fun-filled movie night featuring the animated classic Robots (2005)!</h2>\n<p>Enjoy a laid-back evening with fellow peers, great conversations, and a fantastic film. <strong>Bring your own snacks and drinks</strong> to make the night even better</p>\n<p>whether you’re into robotics or animation, this is the perfect chance to unwind and connect!</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "respect-now-always-rna",
+      "name": "Respect.Now.Always. (RNA)",
+      "url": "https://www.activateuts.com.au/clubs/respect-now-always-rna/",
+      "events": null
+    },
+    {
+      "club_id": "science-alliance",
+      "name": "Science Alliance",
+      "url": "https://www.activateuts.com.au/clubs/science-alliance/",
+      "events": null
+    },
+    {
+      "club_id": "slavic-society",
+      "name": "Slavic Society",
+      "url": "https://www.activateuts.com.au/clubs/slavic-society/",
+      "events": null
+    },
+    {
+      "club_id": "socialists",
+      "name": "Socialists",
+      "url": "https://www.activateuts.com.au/clubs/socialists/",
+      "events": null
+    },
+    {
+      "club_id": "spanish-and-latin-american-society",
+      "name": "Spanish and Latin American Society",
+      "url": "https://www.activateuts.com.au/clubs/spanish-and-latin-american-society/",
+      "events": null
+    },
+    {
+      "club_id": "startup-link-uts",
+      "name": "StartUp Link UTS",
+      "url": "https://www.activateuts.com.au/clubs/startup-link-uts/",
+      "events": null
+    },
+    {
+      "club_id": "utssa",
+      "name": "The UTS Students’ Association",
+      "url": "https://www.activateuts.com.au/clubs/utssa/",
+      "events": null
+    },
+    {
+      "club_id": "uts-taylors-version",
+      "name": "UTS (Taylor's Version)",
+      "url": "https://www.activateuts.com.au/clubs/uts-taylors-version/",
+      "events": [
+        {
+          "id": 453338,
+          "title": "Pop Girl Trivia",
+          "url": "https://www.activateuts.com.au/events/pop-girl-trivia/",
+          "start_date": "23/04/2025 6:00 pm",
+          "end_date": "23/04/2025 9:00 pm",
+          "desc": "<p>Can I ask you a Question? Do you think you are the true Mastermind™?</p>\n<p>Come test your knowledge of the pop girlies and find out who will be crowned the ultimate Mastermind.</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "uts-vinnies-society",
+      "name": "Vinnies Society",
+      "url": "https://www.activateuts.com.au/clubs/uts-vinnies-society/",
+      "events": null
+    },
+    {
+      "club_id": "traditional-chinese-culture-appreciation-society",
+      "name": "Traditional Chinese Culture Association",
+      "url": "https://www.activateuts.com.au/clubs/traditional-chinese-culture-appreciation-society/",
+      "events": null
+    },
+    {
+      "club_id": "vietnamese-student-association-vsa",
+      "name": "Vietnamese Student Association (VSA)",
+      "url": "https://www.activateuts.com.au/clubs/vietnamese-student-association-vsa/",
+      "events": [
+        {
+          "id": 456419,
+          "title": "Trivia Night 2025 – Destination Trivia",
+          "url": "https://www.activateuts.com.au/events/trivia-night-2025-destination-trivia/",
+          "start_date": "29/04/2025 5:30 pm",
+          "end_date": "29/04/2025 8:30 pm",
+          "desc": "<h2>VSA UTS PRESENTS&hellip; DESTINATION: TRIVIA.</h2>\n<p><span style=\"font-weight: 400;\">This year at our annual Trivia Night, take a TRIP across the globe, PACK your bags, and put YOUR knowledge to the test.</span></p>\n<p><span style=\"font-weight: 400;\">Each round is a new destination, so grab your passport and prepare for take-off!</span></p>\n<p><span style=\"font-weight: 400;\">Register as a team of up to 10 or sign up SOLO, either way, there will be amazing prizes up for grabs for our winners!</span></p>\n<p><span style=\"font-weight: 400;\">Can&rsquo;t wait to see you there &lt;3</span></p>\n<p><span style=\"font-weight: 400;\">* FORM can be found through our Instagram page @vsauts</span></p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "wxstemm",
+      "name": "WXSTEM",
+      "url": "https://www.activateuts.com.au/clubs/wxstemm/",
+      "events": [
+        {
+          "id": 456385,
+          "title": "LinkedIn Workshop",
+          "url": "https://www.activateuts.com.au/events/linkedin-workshop/",
+          "start_date": "30/04/2025 4:00 pm",
+          "end_date": "30/04/2025 6:00 pm",
+          "desc": "<p>Join us for a workshop to develop your online professional presence + get a professional headshot for your profile!</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "water-polo",
+      "name": "Water Polo",
+      "url": "https://www.activateuts.com.au/clubs/water-polo/",
+      "events": null
+    },
+    {
+      "club_id": "mba-nexus",
+      "name": "MBA Nexus",
+      "url": "https://www.activateuts.com.au/clubs/mba-nexus/",
+      "events": null
+    },
+    {
+      "club_id": "sk8soc",
+      "name": "Sk8Soc",
+      "url": "https://www.activateuts.com.au/clubs/sk8soc/",
+      "events": null
+    },
+    {
+      "club_id": "filipino-student-association",
+      "name": "Filipino Student Association (FSA)",
+      "url": "https://www.activateuts.com.au/clubs/filipino-student-association/",
+      "events": null
+    },
+    {
+      "club_id": "uts-college-alumni-club",
+      "name": "UTS College Alumni Club",
+      "url": "https://www.activateuts.com.au/clubs/uts-college-alumni-club/",
+      "events": null
+    },
+    {
+      "club_id": "bangladeshi-society",
+      "name": "Bangladeshi Society",
+      "url": "https://www.activateuts.com.au/clubs/bangladeshi-society/",
+      "events": null
+    },
+    {
+      "club_id": "animation-guild",
+      "name": "Animation Guild",
+      "url": "https://www.activateuts.com.au/clubs/animation-guild/",
+      "events": [
+        {
+          "id": 450524,
+          "title": "Robot Movie Night!",
+          "url": "https://www.activateuts.com.au/events/robot-movie-night/",
+          "start_date": "01/05/2025 5:00 pm",
+          "end_date": "01/05/2025 7:00 pm",
+          "desc": "<h2>Join us for a fun-filled movie night featuring the animated classic Robots (2005)!</h2>\n<p>Enjoy a laid-back evening with fellow peers, great conversations, and a fantastic film. <strong>Bring your own snacks and drinks</strong> to make the night even better</p>\n<p>whether you’re into robotics or animation, this is the perfect chance to unwind and connect!</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "k-pop-uts",
+      "name": "K-POP UTS",
+      "url": "https://www.activateuts.com.au/clubs/k-pop-uts/",
+      "events": [
+        {
+          "id": 453464,
+          "title": "Bear-ly Hanging On Pt.2: Rosie Teddy Plushie Beaded Keychain Workshop (KUTS x DZN)",
+          "url": "https://www.activateuts.com.au/events/bear-ly-hanging-on-pt-2-rosie-teddy-plushie-beaded-keychain-workshop-kuts-x-dzn/",
+          "start_date": "28/04/2025 3:30 pm",
+          "end_date": "28/04/2025 5:00 pm",
+          "desc": "<p>Assemble and decorate your own Rosie Teddy plush charm.</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "cheerleading",
+      "name": "Cheerleading",
+      "url": "https://www.activateuts.com.au/clubs/cheerleading/",
+      "events": null
+    },
+    {
+      "club_id": "dance-society",
+      "name": "Dance Society",
+      "url": "https://www.activateuts.com.au/clubs/dance-society/",
+      "events": null
+    },
+    {
+      "club_id": "uts-dodgeball",
+      "name": "Dodgeball",
+      "url": "https://www.activateuts.com.au/clubs/uts-dodgeball/",
+      "events": [
+        {
+          "id": 436414,
+          "title": "Semester 1 Pass",
+          "url": "https://www.activateuts.com.au/events/semester-1-pass-6/",
+          "start_date": "27/02/2025 12:00 am",
+          "end_date": "31/07/2025 12:30 am",
+          "desc": "<p>The pass includes unlimited access for all dodgeball sessions at UTS</p>\n"
+        },
+        {
+          "id": 454611,
+          "title": "Pride in Sport – Dodgeball Open Socials",
+          "url": "https://www.activateuts.com.au/events/pride-in-sport-dodgeball-open-socials/",
+          "start_date": "24/04/2025 2:00 pm",
+          "end_date": "24/04/2025 6:00 pm",
+          "desc": "<p>🏳️‍🌈 Pride in Sport – Dodgeball Open Socials! 🏐</p>\n<p>Come along to our inclusive, vibrant dodgeball socials! Celebrate diversity, meet awesome people, and have a blast throwing foam balls. No experience needed—everyone’s welcome!</p>\n<p>📍 Location: Ross Milbourne Sports Hall (RMSH), UTS<br />\n📅 Date: 24 April 2025<br />\n🕒 Time: 2pm &#8211; 6pm (Join at anytime)<br />\n👟 What to Bring: Sportswear, comfy shoes, water, and your brightest colours!<br />\n🎟️ Cost: Free event—just bring your best vibes!</p>\n<p>See you on court! 🌈✨</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "ice-skating",
+      "name": "Ice Skating",
+      "url": "https://www.activateuts.com.au/clubs/ice-skating/",
+      "events": null
+    },
+    {
+      "club_id": "kung-fu-club",
+      "name": "Kung Fu",
+      "url": "https://www.activateuts.com.au/clubs/kung-fu-club/",
+      "events": [
+        {
+          "id": 421912,
+          "title": "Chinese Sword Arts – Beginners Course in Sword Fighting",
+          "url": "https://www.activateuts.com.au/events/chinese-sword-arts-beginners-course-in-sword-fighting/",
+          "start_date": "22/02/2025 3:00 pm",
+          "end_date": "10/05/2025 4:30 pm",
+          "desc": "<h2>Course Description</h2>\n<p>UTS Kung Fu is hosting a 10 week beginner course, is an introduction to traditional Chinese Sword Arts (劍法 &ndash; jianfa, literally &ldquo;Sword Methods&rdquo;) which provide the practitioner with the skills to move beyond choreographed forms and understand the principles of swordplay, allowing them to deepen their knowledge and engage in sparring and tournaments. The content is based around the traditional Sancaijian (三才劍), the Three Realms Sword form, which allows you to practice alone, and with others, and with techniques from Yang Wudang Taijijian. Jianfa is a martial art where the user&rsquo;s skill with the weapon is much more important than the raw strength, size, or gender of the practitioner, allowing everyone to compete fairly against one another in sparring and tournaments.</p>\n<p>Registration is for 10 weeks of instruction in traditional Chinese swordplay (jianfa) which will cover:<br />&ndash; Complete instruction in the Sancaijian (Three Realms Sword) taolu (form)<br />&ndash; Detailed instruction in all 13 basic cuts of traditional Wudang sword based Chinese sword arts<br />&ndash; Two person drills, including Sword Triangles<br />&ndash; Overview of the Sancaijian two person taolu (form)<br />&ndash; Full application for each move in the taolu (form)<br />&ndash; All techniques and drills are preparation for sparring practice. Drills will be able to be practiced from the first day of class, while participation in sparring is able to begin as soon as you have appropriate protective gear.</p>\n<p>A training jian (sword) which is safe to be used in sparring and correctly balanced for realistic practice, will be supplied for use in class.</p>\n<p>This course also includes free admission to the regular training Kung Fu Club training sessions (Monday and Friday evenings) throughout the week for Semester 1.</p>\n<p><span style=\"font-weight: 400;\"><em>What you need to bring:</em> Flat soled shoes (runners/other exercise shoes), and comfortable, easy to move in clothing. Safety glasses and light gloves.</span></p>\n<p><span style=\"font-weight: 400;\">Light Sparring gear (if interested, <strong>not required for the course</strong>): Fencing mask, Armoured gloves (such as Red Dragon gloves off Amazon).</span></p>\n<p><span style=\"font-weight: 400;\">Full contact Sparring gear (<strong>not required for the course</strong>): Fencing mask (+ overlay/back of head protection), Red Dragon gloves (or better), Forearm guards, 350N rated padded Gambeson (minimum), Shin/knee guards.</span></p>\n<p><span style=\"font-weight: 400;\">Some shared club gear is available for use in class, but sizes are limited and might not fit.</span></p>\n<p><span style=\"font-weight: 400;\">The course will run each Saturday 3:00pm-4:30pm from the 22nd of February 2025 through to the 10th of May 2025 (inclusive). (Includes a 2-week break for the Easter and Anzac Day long weekends). 4:30-5:45pm will be Sword training, drills and sparring with the rest of the Sword Class. Everyone is welcome to join in.</span></p>\n<p><span style=\"font-weight: 400;\">Further information and questions is available via email at: <em>sydney.jianfa@gmail.com</em></span></p>\n<p><span style=\"font-weight: 400;\">or on the UTS Kung Fu discord: <a href=\"https://discord.gg/cdPJVtNAGH\">https://discord.gg/cdPJVtNAGH</a></span></p>\n<p><em><span style=\"font-weight: 400;\">Instructor Bio:</span></em></p>\n<p><span style=\"font-weight: 400;\">Aidan O&#8217;Brien is a martial artist with over 30 years experience, and over 20 years experience focusing on jianfa. Having trained in Wudang Dan Pai Jian, Yang Wudang Taijijian, Sancaijian, Yang Michuan Taijijian. As a life-long student, he continues his training with the current 13th Generation inheritors of Wudang Dan Pai, Dr. Lu and Master Chang. His Yang Wudang Taijijian was taught to him by Master William Ho, and he has also trained with Scott Rodell. He also placed 2nd at the Seattle International Martial Arts Championship in the Sword Sparring (sanjian) tournament. Aidan is a firm believer in applying swordsmanship in full contact sparring to fully understand the art, with a holistic approach to training methodologies, utilising forms/taolu, drills, constraint-led approach games, and free sparring to enable his students to reach their full potential.</span></p>\n<p><span style=\"font-weight: 400;\">&nbsp;</span></p>\n<p><em><span style=\"font-weight: 400;\">About Sancaijian:</span></em></p>\n<p><span style=\"font-weight: 400;\">Sancaijian (三才劍 &#8211; the Three Realms Sword), is a taolu (Mandarin for form, equivalent to the Japanese kata) that is made up of two matching halves, that was created by Li Jinglin, the 10th generation Wudang Dan Pai grandmaster, in the late 1920s to teach the core principles of Chinese Sword Arts at the Central Guoshu Institute (CGI).&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">Sancaijian is made up of movements from the Wudang Two-Person Taolu (more commonly called Duijian) and Wudang solo taolu, it utilises the principles of Wudang Sword Arts. It was designed to be a solo taolu that would neatly match the two halves together to create a two person taolu to practice each movement with its direct application. Due to its matching design and being taught at the CGI, it has since been included in a number of Chinese Martial Arts that were also taught at the CGI, including Sun-style Taiji, some Lineages of Xingyi, and Changquan/Longfist. </span></p>\n"
+        },
+        {
+          "id": 450538,
+          "title": "Wudang Sword Seminar with International Masters Dr. Lu and Master Chang",
+          "url": "https://www.activateuts.com.au/events/wudang-sword-seminar-with-international-masters-dr-lu-and-master-chang/",
+          "start_date": "14/06/2025 9:00 am",
+          "end_date": "16/06/2025 5:00 pm",
+          "desc": "<p><strong><em>IMPORTANT NOTE: Registration on this page is not a ticket to the event. See below for details.</em></strong></p>\n<p>Due to the legal waivers and disclaimers required for a martial arts seminar, completion of the registration form (google forms link: <a title=\"Registration Form - Google Forms\" href=\"https://forms.gle/PFndhGMjtsMnwseV9\">https://forms.gle/PFndhGMjtsMnwseV9</a> ) needs to be completed for registration. Any questions can be sent to Aidan at sydneyjianfa@gmail.com</p>\n<p><em>About Wudang Sword</em></p>\n<p>Wudang Sword is the main element of Wudang Dan Pai. &nbsp;It is one part of the Wudang martial arts curriculum that was handed down since the Ming Dynasty in the 16th century. Zhang, Song-Xi (张松溪) who was both a martial artist and Daoist priest at Wudang mountain, founded Wudang Dan Pai (武当丹派).</p>\n<p>Wudang Sword uses delicate techniques along with lightning fast movements. Wudang sword goes from slow to fast and soft to hard in an instant. Attacks can be straight-line or circular. Low postures are utilized along with high jumps in the air. It is this combination that makes Wudang Sword one of the most famous and sought after sword arts in China&rsquo;s history.</p>\n<p>The traditional Wudang Sword system was passed down to Master Chang, Wu Na and Dr. Lu, Mei-hui by Grandmaster Ma, Jie (马杰) who was the 12th generation Gatekeeper of Wudang Dan Pai. The system consists of one sword form (132 movements in 6 sections), a two-person fighting form, sword and Daoist fly-whisk combined form, &ldquo;flying sword&rdquo; techniques (throwing knives), and sword sparring, among others. This system has been recognized as the most authentic Wudang Sword system by Wudang Mountain. Its techniques are direct and powerful.</p>\n<p><em>Workshop Details</em></p>\n<p>This event is a two-day martial arts and self defence seminar teaching the details of the Jian (straight sword), in the Wudang Dan Pai tradition, more commonly called Wudang Sword in English. The content will include traditional forms and techniques, application of the movements in martial arts competition and self-defence, and self development. The instructors for this seminar are Dr Lu Mei-Hui and Master Chang WuNa, the 13th generation lineage holders of Wudang Dan Pai.</p>\n<p>Content:<br />&ndash; Solo sword drills<br />&ndash; Partner sword drills and exercises<br />&ndash; Application workshop</p>\n<p>Additionally, each session will have the option for people to engage in sparring and apply what has been learnt (for those with protective equipment)</p>\n<p>Date and Time (<em>One-day tickets available</em>):<br />14th June 9am-5pm and 15th June 9am-5pm</p>\n<p>Separate registration, and event waiver required (Google form): <a title=\"Registration Form - Google Forms\" href=\"https://forms.gle/PFndhGMjtsMnwseV9\">https://forms.gle/PFndhGMjtsMnwseV9</a></p>\n<p>Location:<br />Ross-Milbourne Sports Hall, UTS</p>\n<p><strong>Early bird discount for tickets bought up to and including 28th April. See registration form for details.</strong></p>\n<p><strong>One-day tickets starting from: $180</strong><br /><strong>Two-day tickets starting from: $335</strong></p>\n<p><span style=\"font-weight: 400;\">Example Daily Seminar Schedule:<br /></span></p>\n<p><span style=\"font-weight: 400;\">0830-&gt;0900 Check in, orientation and briefing.</span></p>\n<p><span style=\"font-weight: 400;\">0900-&gt;0930 warm up, basic cuts <br />0930-&gt;1030 Solo taolu/form and drill instruction<br />1030-&gt;1100 Morning Tea<br />1100-&gt;1115 Solo taolu revision<br />1115-&gt;1230 Duijian instruction<br />1230-&gt;1300 Sparring Session 1 <br />1300-&gt;1400 Lunch<br />1400-&gt;1530 Workshop &ndash; Sparring Problems encountered and how to fix it the Wudang Way <br />1530-&gt;1600 Afternoon Tea<br />1600-&gt;1715 Revision and Consolidation.<br />1715-&gt;1745 Sparring Session 2<br />1745-&gt;1800 Pack up</span></p>\n<p><em><span style=\"font-weight: 400;\">Instructor Biographies</span></em></p>\n<p><em><strong>Dr. Lu Mei-Hui</strong></em></p>\n<p><span style=\"font-weight: 400;\">Dr. Lu, Mei-Hui is the co-founder and instructor of the International Wudang Internal Martial Arts Academy along with Master Chang. Her name can be found in The </span><em><span style=\"font-weight: 400;\">Encyclopedia of Contemporary Outstanding Traditional Chinese Martial Arts Masters</span></em><span style=\"font-weight: 400;\"> published in Beijing, China., 2008, Taiji Magazine, New Tang Dynasty News &amp; Magazine, Epoch Times and Seattle Chinese Time. Her view points on traditional Chinese Martial Arts have been reported on TV and radio as well.</span></p>\n<p><span style=\"font-weight: 400;\">Dr. Lu was born in Taiwan and holds a Ph.D. degree in Curriculum and Instruction from the University of Washington. She comes from a long family line of martial artists and healers. In addition to her Martial Arts training, Dr. Lu also has deep exposure to Traditional Chinese Medicine and Qigong. She has studied Acupuncture and Oriental Medicine at Baster University and Qi healing from various famous masters in China.</span></p>\n<p><em><strong>Master Chang WuNa</strong></em></p>\n<p><span style=\"font-weight: 400;\">Master Chang, Wu Na (Daoist name Bao Na), is the co-founder and instructor of the International Wudang Internal Martial Arts Academy and is a Daoist priest. Master Chang has been trained in various martial arts from around the world since the age of four. This enabled him to cultivate a balanced understanding of Chinese Martial Arts and its place in the global martial arts community. His name is included in The </span><em><span style=\"font-weight: 400;\">Encyclopedia of Contemporary Outstanding Chinese Martial Arts Masters</span></em><span style=\"font-weight: 400;\"> published in China.</span></p>\n<p><span style=\"font-weight: 400;\">In his youth, Master Chang studied several hard styles and various weapons. As a mixed-race individual, Master Chang was drawn to the Chinese Martial Arts in an attempt to further explore his Chinese heritage. His training in Wudang style martial arts began in his early teens learning Baguazhang and Xingyiquan with a master from Beijing.</span></p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "netball",
+      "name": "Netball",
+      "url": "https://www.activateuts.com.au/clubs/netball/",
+      "events": [
+        {
+          "id": 395846,
+          "title": "Sunday Social Netball",
+          "url": "https://www.activateuts.com.au/events/sunday-social-netball-3/",
+          "start_date": "23/02/2025 4:00 pm",
+          "end_date": "18/05/2025 10:00 pm",
+          "desc": "<p>Our social comp provides the perfect opportunity to stay fit with some netball while catching up and having a chat and a laugh with your friends.<br />\nTeam spots are limited, so gather your group and register ASAP! All levels of experience are welcome.</p>\n<p>We look forward to seeing you back on the court!</p>\n<p>When: Sunday afternoons from 23rd Feb – 18th May<br />\nWhere: Ross Milbourne Sports Hall (building 4) 745 Harris St, Ultimo</p>\n<p>Cost: $750 team registration (to be paid only by team captain) or $100 individual registration (we will reach out to you and place you in a team)</p>\n<h5>IMPORTANT</h5>\n<p><strong>You must first register as a club member of UTS Netball to be able to register for Sunday Social Netball</strong></p>\n<p>If registering as a team and you have less than 12x players, you will still need to fill out all text boxes, please fill out the extra text boxes as follows:<br />\nName: UTS Netball</p>\n<p>Email: netball@uts.com</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>If you have any questions, feel free to DM us on Instagram or email utsnetball@gmail.com.</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "oztag",
+      "name": "Oztag",
+      "url": "https://www.activateuts.com.au/clubs/oztag/",
+      "events": null
+    },
+    {
+      "club_id": "post-graduate-sport-club-polsa",
+      "name": "Post Graduate Sport Club (PoLSA)",
+      "url": "https://www.activateuts.com.au/clubs/post-graduate-sport-club-polsa/",
+      "events": null
+    },
+    {
+      "club_id": "quadball",
+      "name": "Quadball",
+      "url": "https://www.activateuts.com.au/clubs/quadball/",
+      "events": null
+    },
+    {
+      "club_id": "run-club",
+      "name": "Run Club",
+      "url": "https://www.activateuts.com.au/clubs/run-club/",
+      "events": null
+    },
+    {
+      "club_id": "indonesian-student-association-ppia",
+      "name": "Indonesian Student Association (PPIA)",
+      "url": "https://www.activateuts.com.au/clubs/indonesian-student-association-ppia/",
+      "events": null
+    },
+    {
+      "club_id": "pharmacy-association-utspa",
+      "name": "Pharmacy Association (UTSPA)",
+      "url": "https://www.activateuts.com.au/clubs/pharmacy-association-utspa/",
+      "events": null
+    },
+    {
+      "club_id": "finance-society",
+      "name": "Finance Society",
+      "url": "https://www.activateuts.com.au/clubs/finance-society/",
+      "events": null
+    },
+    {
+      "club_id": "mechsoc",
+      "name": "MechSoc",
+      "url": "https://www.activateuts.com.au/clubs/mechsoc/",
+      "events": [
+        {
+          "id": 421143,
+          "title": "SpotMicro Weekly Robot Build",
+          "url": "https://www.activateuts.com.au/events/spotmicro-weekly-robot-build-4/",
+          "start_date": "24/04/2025 7:00 pm",
+          "end_date": "24/04/2025 11:00 pm",
+          "desc": "<p>Join us for our weekly workshop where we will be building a SpotMicro Robot dog!</p>\n"
+        },
+        {
+          "id": 455049,
+          "title": "Engineering Networking Night",
+          "url": "https://www.activateuts.com.au/events/engineering-networking-night/",
+          "start_date": "01/05/2025 6:00 pm",
+          "end_date": "01/05/2025 9:00 pm",
+          "desc": "<h3>Join Mechsoc&rsquo;s Engineering Networking night where you as students will get the opportunity to meet over ten engineering companies in attendance.</h3>\n<p>You will have the opportunity to meet and network with these incredible industry representatives who have real world experience in the areas you study!</p>\n<p>Students will have the chance to gain insight into what their future roles could entail as well as gain new contacts in their field.</p>\n<h2>Companies Attending</h2>\n<ul>\n<li>Bosch Rexroth</li>\n<li>BAE Systems</li>\n<li>RESMED</li>\n<li>Bechtel</li>\n<li>Qantus</li>\n<li>Stryker</li>\n<li>IMEA Group</li>\n<li>Wysiwyg 3D</li>\n<li>ADF Careers</li>\n<li>IDE Group</li>\n<li>Venus Automation</li>\n</ul>\n"
+        },
+        {
+          "id": 421146,
+          "title": "SpotMicro Weekly Robot Build",
+          "url": "https://www.activateuts.com.au/events/spotmicro-weekly-robot-build-7/",
+          "start_date": "08/05/2025 7:00 pm",
+          "end_date": "08/05/2025 11:00 pm",
+          "desc": "<p>Join us for our weekly workshop where we will be building a SpotMicro Robot dog!</p>\n"
+        },
+        {
+          "id": 421151,
+          "title": "SpotMicro Weekly Robot Build",
+          "url": "https://www.activateuts.com.au/events/spotmicro-weekly-robot-build-12/",
+          "start_date": "22/05/2025 7:00 pm",
+          "end_date": "22/05/2025 11:00 pm",
+          "desc": "<p>Join us for our weekly workshop where we will be building a SpotMicro Robot dog!</p>\n"
+        },
+        {
+          "id": 450829,
+          "title": "Snowy Hydro Ski Trip",
+          "url": "https://www.activateuts.com.au/events/snowy-hydro-ski-trip-2/",
+          "start_date": "05/07/2025 6:00 am",
+          "end_date": "11/07/2025 6:00 pm",
+          "desc": "<h2>Join us for an exciting adventure from July 5th to July 11th!</h2>\n<p>We&rsquo;ll be skiing at Mt. Hotham from July 5th to July 10th, staying at the cozy Lawlers accommodation, where you can enjoy the slopes, socialize, and relax. On July 10th, we&rsquo;ll depart Mt. Hotham and make our way to Jindabyne, staying near the Snowy Hydro Discovery Centre.</p>\n<p>On July 11th, we&rsquo;ll explore the Snowy Hydro Discovery Centre with a guided tour, delving into the fascinating history and engineering behind the Snowy Mountains Scheme. After the tour, we&rsquo;ll return to UTS, where the event will conclude.</p>\n<p>The meetup location at UTS will be between Buildings 11 and 2. Don&rsquo;t miss out on this amazing opportunity for skiing, sightseeing, and learning!</p>\n<h3>Whats included:</h3>\n<ul>\n<li>5 night ski in ski out accomodation</li>\n<li>Accident Insurance</li>\n<li>Breakfast and lunches included</li>\n<li>Ski or Board hire</li>\n<li>Lift tickets for 4 days of skiing</li>\n<li>Transport from UTS to Hotham, Cooma and back</li>\n<li>Tour of Snowy Hydro facility and meet with engineers</li>\n</ul>\n<p>Event Dates:</p>\n<ul>\n<li>July 5th to July 10th: Skiing at Mt. Hotham</li>\n<li>July 10th: Travel to Cooma</li>\n<li>July 11th: Snowy Hydro Discovery Centre Tour &amp; Return to UTS</li>\n</ul>\n<p>We look forward to seeing you there.</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "engineering-society-engsoc",
+      "name": "Engineering Society (EngSoc)",
+      "url": "https://www.activateuts.com.au/clubs/engineering-society-engsoc/",
+      "events": [
+        {
+          "id": 455475,
+          "title": "EngSoc x TechSoc All-Day Sports Event",
+          "url": "https://www.activateuts.com.au/events/engsoc-x-techsoc-all-day-sports-event/",
+          "start_date": "26/04/2025 10:00 am",
+          "end_date": "26/04/2025 2:00 pm",
+          "desc": "<h2>Join us for an exciting sports day as our society (EngSoc) collaborates with TechSoc to host a thrilling sports tournament at the Sydney Boys UTS Sports Facilities.</h2>\n<p>Ten teams of five will compete in volleyball and basketball. The three teams accumulating the most points in both sports will win grand prizes depending on their rankings!</p>\n<p>Enjoy a morning of volleyball followed by an evening of basketball, with lunch and breaks in between. This event is a fantastic opportunity to showcase your skills, build teamwork, and have fun with fellow students, so come ready to compete and make unforgettable memories!</p>\n"
+        },
+        {
+          "id": 453418,
+          "title": "EngSoc Camp 2025: The Lost Island",
+          "url": "https://www.activateuts.com.au/events/engsoc-camp-2025-the-lost-island/",
+          "start_date": "09/05/2025 2:00 pm",
+          "end_date": "11/05/2025 2:00 pm",
+          "desc": "<h2 class=\"p1\">There’s been whispers in the wind of a lost island…</h2>\n<p class=\"p1\">Get ready for the biggest event of the year: EngSoc Camp 2025 – The Lost Island! Battle it out on the island, uncover hidden treasure, and party in the moonlight over three days of adventure.</p>\n<p class=\"p1\">Activity Highlights:</p>\n<ul>\n<li class=\"p1\">Game Show Night</li>\n<li class=\"p1\">Amazing Race</li>\n<li class=\"p1\">Water Balloon Battle</li>\n<li class=\"p1\">Moonlight Party w/ DJ</li>\n</ul>\n<blockquote>\n<p class=\"p1\"><strong>Date</strong>: 9th May – 11th May</p>\n<p class=\"p1\"><strong>Location</strong>: AGH Camps</p>\n</blockquote>\n<p class=\"p1\">Open to all years.</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "biomedical-engineering-society",
+      "name": "Biomedical Engineering Society",
+      "url": "https://www.activateuts.com.au/clubs/biomedical-engineering-society/",
+      "events": null
+    },
+    {
+      "club_id": "tech-society",
+      "name": "Tech Society",
+      "url": "https://www.activateuts.com.au/clubs/tech-society/",
+      "events": [
+        {
+          "id": 455475,
+          "title": "EngSoc x TechSoc All-Day Sports Event",
+          "url": "https://www.activateuts.com.au/events/engsoc-x-techsoc-all-day-sports-event/",
+          "start_date": "26/04/2025 10:00 am",
+          "end_date": "26/04/2025 2:00 pm",
+          "desc": "<h2>Join us for an exciting sports day as our society (EngSoc) collaborates with TechSoc to host a thrilling sports tournament at the Sydney Boys UTS Sports Facilities.</h2>\n<p>Ten teams of five will compete in volleyball and basketball. The three teams accumulating the most points in both sports will win grand prizes depending on their rankings!</p>\n<p>Enjoy a morning of volleyball followed by an evening of basketball, with lunch and breaks in between. This event is a fantastic opportunity to showcase your skills, build teamwork, and have fun with fellow students, so come ready to compete and make unforgettable memories!</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "social-soccer-society",
+      "name": "Social Soccer Society",
+      "url": "https://www.activateuts.com.au/clubs/social-soccer-society/",
+      "events": [
+        {
+          "id": 429362,
+          "title": "Weekly Futsal",
+          "url": "https://www.activateuts.com.au/events/weekly-futsal-22/",
+          "start_date": "26/04/2025 11:00 am",
+          "end_date": "26/04/2025 2:00 pm",
+          "desc": "<h2>Join us for our weekly futsal game</h2>\n<p>Open to members, held in the RMSH</p>\n"
+        },
+        {
+          "id": 429327,
+          "title": "Weekly Futsal",
+          "url": "https://www.activateuts.com.au/events/weekly-futsal-6/",
+          "start_date": "29/04/2025 2:00 pm",
+          "end_date": "29/04/2025 4:00 pm",
+          "desc": "<h2>Join us for our weekly futsal game</h2>\n<p>Open to members, held in the RMSH</p>\n"
+        },
+        {
+          "id": 429355,
+          "title": "Weekly Futsal",
+          "url": "https://www.activateuts.com.au/events/weekly-futsal-20/",
+          "start_date": "03/05/2025 11:00 am",
+          "end_date": "03/05/2025 2:00 pm",
+          "desc": "<h2>Join us for our weekly futsal game</h2>\n<p>Open to members, held in the RMSH</p>\n"
+        },
+        {
+          "id": 429325,
+          "title": "Weekly Futsal",
+          "url": "https://www.activateuts.com.au/events/weekly-futsal-5/",
+          "start_date": "06/05/2025 2:00 pm",
+          "end_date": "06/05/2025 4:00 pm",
+          "desc": "<h2>Join us for our weekly futsal game</h2>\n<p>Open to members, held in the RMSH</p>\n"
+        },
+        {
+          "id": 429347,
+          "title": "Weekly Futsal",
+          "url": "https://www.activateuts.com.au/events/weekly-futsal-16/",
+          "start_date": "10/05/2025 11:00 am",
+          "end_date": "10/05/2025 2:00 pm",
+          "desc": "<h2>Join us for our weekly futsal game</h2>\n<p>Open to members, held in the RMSH</p>\n"
+        },
+        {
+          "id": 429321,
+          "title": "Weekly Futsal",
+          "url": "https://www.activateuts.com.au/events/weekly-futsal-3/",
+          "start_date": "13/05/2025 2:00 pm",
+          "end_date": "13/05/2025 4:00 pm",
+          "desc": "<h2>Join us for our weekly futsal game</h2>\n<p>Open to members, held in the RMSH</p>\n"
+        },
+        {
+          "id": 429345,
+          "title": "Weekly Futsal",
+          "url": "https://www.activateuts.com.au/events/weekly-futsal-15/",
+          "start_date": "17/05/2025 11:00 am",
+          "end_date": "17/05/2025 2:00 pm",
+          "desc": "<h2>Join us for our weekly futsal game</h2>\n<p>Open to members, held in the RMSH</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "social-sport-association",
+      "name": "Social Sports Association",
+      "url": "https://www.activateuts.com.au/clubs/social-sport-association/",
+      "events": null
+    },
+    {
+      "club_id": "surfing",
+      "name": "Surfing",
+      "url": "https://www.activateuts.com.au/clubs/surfing/",
+      "events": [
+        {
+          "id": 453648,
+          "title": "SKURF CAMP",
+          "url": "https://www.activateuts.com.au/events/skurf-camp/",
+          "start_date": "09/05/2025 5:00 pm",
+          "end_date": "11/05/2025 10:00 am",
+          "desc": "<p>Date: 9-11th May<br />\nLocation: <a href=\"https://www.google.com/maps/dir//166+Thomas+Rd,+Seal+Rocks+NSW+2423/@-32.4475922,152.4333207,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x6b74143aa13f83a1:0xe8a9939e2c538087!2m2!1d152.515722!2d-32.447619?entry=ttu&amp;g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D\">Treachery Campsite</a><br />\nAccommodation: Beach Lodge and some campsites<br />\nWhat: Weekend of surfing at Treachery Beach (near Seal Rocks) and beach activities with a party hosted by SKIBUTS at night. Will have some boards available for use but bring your own if you have them.<br />\nArrive the Friday arvo/night and leave on Sunday.</p>\n<p>&nbsp;</p>\n<p>Tickets will be sourced directly to the club.</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "table-tennis",
+      "name": "Table Tennis",
+      "url": "https://www.activateuts.com.au/clubs/table-tennis/",
+      "events": null
+    },
+    {
+      "club_id": "tenpin-bowling",
+      "name": "Tenpin Bowling",
+      "url": "https://www.activateuts.com.au/clubs/tenpin-bowling/",
+      "events": null
+    },
+    {
+      "club_id": "touch-football",
+      "name": "Touch Football",
+      "url": "https://www.activateuts.com.au/clubs/touch-football/",
+      "events": null
+    },
+    {
+      "club_id": "makesoc",
+      "name": "Fabrication Society",
+      "url": "https://www.activateuts.com.au/clubs/makesoc/",
+      "events": null
+    },
+    {
+      "club_id": "society-of-communications-utsoc",
+      "name": "Society of Communications (UTSoC)",
+      "url": "https://www.activateuts.com.au/clubs/society-of-communications-utsoc/",
+      "events": null
+    },
+    {
+      "club_id": "red-cross-society",
+      "name": "Red Cross Society",
+      "url": "https://www.activateuts.com.au/clubs/red-cross-society/",
+      "events": null
+    },
+    {
+      "club_id": "badminton",
+      "name": "Badminton",
+      "url": "https://www.activateuts.com.au/clubs/badminton/",
+      "events": null
+    },
+    {
+      "club_id": "td-connect",
+      "name": "TD Connect",
+      "url": "https://www.activateuts.com.au/clubs/td-connect/",
+      "events": null
+    },
+    {
+      "club_id": "athletics",
+      "name": "Athletics",
+      "url": "https://www.activateuts.com.au/clubs/athletics/",
+      "events": null
+    },
+    {
+      "club_id": "australian-football",
+      "name": "Australian Football",
+      "url": "https://www.activateuts.com.au/clubs/australian-football/",
+      "events": null
+    },
+    {
+      "club_id": "scuba-diving",
+      "name": "Scuba Diving",
+      "url": "https://www.activateuts.com.au/clubs/scuba-diving/",
+      "events": null
+    },
+    {
+      "club_id": "esports",
+      "name": "Esports",
+      "url": "https://www.activateuts.com.au/clubs/esports/",
+      "events": [
+        {
+          "id": 455384,
+          "title": "The Underground Gathering – Tabletop Tuesdays",
+          "url": "https://www.activateuts.com.au/events/the-underground-gathering-tabletop-tuesdays/",
+          "start_date": "22/04/2025 6:00 pm",
+          "end_date": "25/11/2025 9:00 pm",
+          "desc": "<p>The Underground Gathering is a weekly tabletop gaming event. Hosted at The Underground Bar, this activation provides a dedicated space for card and board game enthusiasts to gather, play, and socialise.</p>\n<p>Join fellow adventurers for our opening night filled with epic battles, strategic gameplay, and great company. Whether you&rsquo;re a seasoned player or just starting out, there&rsquo;s a place for you at the table.</p>\n<p>What to Expect:</p>\n<p>Weekly Magic: The Gathering events</p>\n<p>Casual play &amp; tournament-style matchups</p>\n<p>Prizes, leaderboards &amp; exclusive gameplay experiences</p>\n<p>Exclusive bar access &amp; drink specials for players</p>\n<p>Launch Night: Tuesday, April 22, 2025</p>\n<p>Time: 6 PM &ndash; 9 PM</p>\n<p>Where: The Underground Bar, UTS</p>\n<p>Entry: FREE</p>\n<p>For more information, visit https://gamesquare.gg/underground-gathering.html</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "fencing",
+      "name": "Fencing",
+      "url": "https://www.activateuts.com.au/clubs/fencing/",
+      "events": null
+    },
+    {
+      "club_id": "football",
+      "name": "Football",
+      "url": "https://www.activateuts.com.au/clubs/football/",
+      "events": null
+    },
+    {
+      "club_id": "futsal",
+      "name": "Futsal",
+      "url": "https://www.activateuts.com.au/clubs/futsal/",
+      "events": null
+    },
+    {
+      "club_id": "judo",
+      "name": "Judo",
+      "url": "https://www.activateuts.com.au/clubs/judo/",
+      "events": null
+    },
+    {
+      "club_id": "rugby-league",
+      "name": "Rugby League",
+      "url": "https://www.activateuts.com.au/clubs/rugby-league/",
+      "events": null
+    },
+    {
+      "club_id": "outdoor-adventure",
+      "name": "Outdoor Adventure",
+      "url": "https://www.activateuts.com.au/clubs/outdoor-adventure/",
+      "events": null
+    },
+    {
+      "club_id": "rugby-union",
+      "name": "Rugby Union",
+      "url": "https://www.activateuts.com.au/clubs/rugby-union/",
+      "events": null
+    },
+    {
+      "club_id": "squash",
+      "name": "Squash",
+      "url": "https://www.activateuts.com.au/clubs/squash/",
+      "events": [
+        {
+          "id": 438615,
+          "title": "Squash Girls Can",
+          "url": "https://www.activateuts.com.au/events/squash-girls-can/",
+          "start_date": "03/03/2025 9:00 am",
+          "end_date": "04/05/2025 9:00 pm",
+          "desc": "<p>FEMALE STUDENTS AND STAFF CAN JOIN AN 8-WEEK SQUASH PROGRAM AT A SPECIAL DISCOUNTED RATE, LED BY PROFESSIONAL COACHES. WHETHER YOU&#8217;RE A BEGINNER OR LOOKING TO REFINE YOUR SKILLS, THIS PROGRAM IS DESIGNED FOR YOU.</p>\n<p>FOR FURTHER INFORMATION, <a href=\"https://www.eastcoastsquashacademy.com.au/special-sgc-offers.html\">CLICK HERE</a> OR EMAIL: URSULA@EASTCOASTSQUASHACADEMY.COM.AU</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "taekwondo",
+      "name": "Taekwondo",
+      "url": "https://www.activateuts.com.au/clubs/taekwondo/",
+      "events": null
+    },
+    {
+      "club_id": "the-big-lift-tbl",
+      "name": "The BIG Lift (TBL)",
+      "url": "https://www.activateuts.com.au/clubs/the-big-lift-tbl/",
+      "events": [
+        {
+          "id": 456260,
+          "title": "Letters of Hope",
+          "url": "https://www.activateuts.com.au/events/letters-of-hope/",
+          "start_date": "09/05/2025 5:00 pm",
+          "end_date": "09/05/2025 9:00 pm",
+          "desc": "<h2>Keen for wholesome letter-writing by candlelight, free snacks and vibey music? Sign up now!</h2>\n<p style=\"font-weight: 400;\">We will be writing anonymous hand-written letters of hope that will be donated to Letters of Hope, a non-for-profit organisation seeking to spread kindness and break stigmas around mental illness. The letters are intended to inspire individuals through words of empowerment and help them feel more connected – knowing that they are not alone.</p>\n<p style=\"font-weight: 400;\">This is a great opportunity to brighten someone’s day and make some kind-hearted friends!</p>\n<h3>Details:</h3>\n<ul>\n<li style=\"font-weight: 400;\"><strong>Date:</strong> Friday 9th May 2025</li>\n<li style=\"font-weight: 400;\"><strong>Time:</strong> 5pm-8pm</li>\n<li style=\"font-weight: 400;\"><strong>Location:</strong> CB02.05.290</li>\n</ul>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "sustainability-alliance-of-student-and-staff-sass",
+      "name": "Sustainability Alliance of Student and Staff (SASS)",
+      "url": "https://www.activateuts.com.au/clubs/sustainability-alliance-of-student-and-staff-sass/",
+      "events": [
+        {
+          "id": 455420,
+          "title": "Connecting You To Green Careers",
+          "url": "https://www.activateuts.com.au/events/connecting-you-to-green-careers-2/",
+          "start_date": "28/04/2025 5:00 pm",
+          "end_date": "28/04/2025 7:00 pm",
+          "desc": "<p>Connecting You To Green Careers is a dynamic networking event aimed at connecting students passionate about sustainability with leading employers in the industry.</p>\n<p>This event offers an invaluable opportunity to engage directly with professionals, explore career paths, and gain insights into the diverse fields of sustainability.</p>\n<p>The event will include an industry panel, followed by a Q&amp;A and time for students to meet and greet with employers. Light refreshments included in your ticket.</p>\n<p>We look forward to seeing you there!</p>\n<p>&nbsp;</p>\n"
+        },
+        {
+          "id": 380903,
+          "title": "SustainabiliTEA Sessions",
+          "url": "https://www.activateuts.com.au/events/sustainabilitea-sessions-9/",
+          "start_date": "12/05/2025 5:00 pm",
+          "end_date": "12/05/2025 7:00 pm",
+          "desc": "<h2>Join your fellow SASS members at one of our regular SustainabiliTE A Sessions!</h2>\n<p>Let&#8217;s grab a drink and catch-up!</p>\n<p>This is a great opportunity to ask students in other years for advice about your degree, and share sustainability tips and inspiration.</p>\n<p>Open to all, no matter your degree!</p>\n<p>Please note: this is a self-funded event, SASS will not be purchasing food or drinks for any members.</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "music-society-muscuts",
+      "name": "Music Society (MuscUTS)",
+      "url": "https://www.activateuts.com.au/clubs/music-society-muscuts/",
+      "events": [
+        {
+          "id": 449119,
+          "title": "Open Mic Night",
+          "url": "https://www.activateuts.com.au/events/open-mic-night-8/",
+          "start_date": "30/04/2025 6:00 pm",
+          "end_date": "30/04/2025 10:00 pm",
+          "desc": "<h2>Come join the most engaging music event on campus with the MuscUTS Open Mic Night!</h2>\n<ul>\n<li aria-level=\"1\"><strong>Date:</strong> Wednesday, 30th April 2025</li>\n<li aria-level=\"1\"><strong>Time:</strong>&nbsp;6:00 &ndash; 10:00 pm</li>\n<li aria-level=\"1\"><strong>Location:</strong>&nbsp;The Loft, UTS</li>\n</ul>\n<p>Either enjoy the showcase of performances featuring fellow students accompanied with drinks and bonding, or join in on the fun and sign up to perform! This event is&nbsp;<em>especially</em> great for those who want to practice their performance skills in a more intimate, cozy setting, and for those who don&rsquo;t usually get a chance to perform in a band!</p>\n<h3>What to expect:</h3>\n<ul>\n<li><em>First 20 guests receive a free drink token on entry</em></li>\n<li aria-level=\"1\">Full night of live, open mic music where anyone can get up and perform</li>\n<li aria-level=\"1\">Vocal mics, 2 guitar amps, a keyboard, a bass amp, and a drum set all running through the house system with a professional AV technician</li>\n<li aria-level=\"1\">Open kitchen for ordering food</li>\n</ul>\n<p>Don&rsquo;t miss out on a magical night of talent-filled performances, or your chance to&nbsp;blow everyone away!</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "reverb",
+      "name": "REVERB",
+      "url": "https://www.activateuts.com.au/clubs/reverb/",
+      "events": null
+    },
+    {
+      "club_id": "pakistan-society",
+      "name": "Pakistan Society",
+      "url": "https://www.activateuts.com.au/clubs/pakistan-society/",
+      "events": null
+    },
+    {
+      "club_id": "car-society",
+      "name": "Car Society",
+      "url": "https://www.activateuts.com.au/clubs/car-society/",
+      "events": null
+    },
+    {
+      "club_id": "korean-association-uka",
+      "name": "Korean Association (UKA)",
+      "url": "https://www.activateuts.com.au/clubs/korean-association-uka/",
+      "events": null
+    },
+    {
+      "club_id": "personal-growth-society",
+      "name": "Personal Growth Society",
+      "url": "https://www.activateuts.com.au/clubs/personal-growth-society/",
+      "events": [
+        {
+          "id": 434008,
+          "title": "Weekly Growth Gather",
+          "url": "https://www.activateuts.com.au/events/weekly-growth-gather-27/",
+          "start_date": "23/04/2025 3:00 pm",
+          "end_date": "23/04/2025 5:00 pm",
+          "desc": "<h2 class=\"p1\">Weekly Growth Gather – Every Wednesday!</h2>\n<p class=\"p1\">Join us every <strong>Wednesday, 3pm-5pm, </strong>where we’ll dive into all things personal growth—from mindset and productivity to relationships and well-being. Each week brings a new topic to explore, great discussions, and a chance to connect with like-minded people on their growth journey.</p>\n<p class=\"p1\">Stay updated on upcoming topics and details by following us on Instagram (@utspgsoc)—don’t miss out!</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "macedonian-society",
+      "name": "Macedonian Society",
+      "url": "https://www.activateuts.com.au/clubs/macedonian-society/",
+      "events": null
+    },
+    {
+      "club_id": "cyber-security-society",
+      "name": "Cyber Security Society",
+      "url": "https://www.activateuts.com.au/clubs/cyber-security-society/",
+      "events": null
+    },
+    {
+      "club_id": "out2party",
+      "name": "Darlings",
+      "url": "https://www.activateuts.com.au/clubs/out2party/",
+      "events": null
+    },
+    {
+      "club_id": "mahjong-uts",
+      "name": "UTS Mahjong",
+      "url": "https://www.activateuts.com.au/clubs/mahjong-uts/",
+      "events": null
+    },
+    {
+      "club_id": "product-design-society",
+      "name": "Product Design Society (PD Soc)",
+      "url": "https://www.activateuts.com.au/clubs/product-design-society/",
+      "events": null
+    },
+    {
+      "club_id": "aerospace-society",
+      "name": "Aerospace Society",
+      "url": "https://www.activateuts.com.au/clubs/aerospace-society/",
+      "events": [
+        {
+          "id": 456438,
+          "title": "Early Careers in Aerospace Panel Night",
+          "url": "https://www.activateuts.com.au/events/early-careers-in-aerospace-panel-night/",
+          "start_date": "23/04/2025 6:00 pm",
+          "end_date": "23/04/2025 9:00 pm",
+          "desc": "<h3>Are you curious about what it’s like to have a career in aerospace? Want to hear how some people landed internships, graduate roles or first roles in this industry?</h3>\n<p><span style=\"font-weight: 400;\">UTS AeroSoc is hosting our Early Careers in Aerospace Panel Night. Our four panellists are from a range of academic backgrounds including engineering, business and science. We’ll be asking them about how they ended up where they are now, what were their most exciting and challenging moments in their careers, the transition from the study grind to post-university life, and any key advice or experiences they would like to share with attendees.</span></p>\n<ul>\n<li><span style=\"font-weight: 400;\">Wednesday 23rd April 2025 @ 6pm</span></li>\n<li><span style=\"font-weight: 400;\">CB11.06.408 (FEIT Seminar Room)</span></li>\n<li><span style=\"font-weight: 400;\">Business Casual</span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">The event will consist of some networking with industry representatives, a panel discussion and </span><strong>free food</strong><span style=\"font-weight: 400;\">! Make sure to bring some questions along!</span></p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "nepalese-student-association",
+      "name": "Nepalese Student Association (NSA)",
+      "url": "https://www.activateuts.com.au/clubs/nepalese-student-association/",
+      "events": [
+        {
+          "id": 454647,
+          "title": "Chiya and Chill",
+          "url": "https://www.activateuts.com.au/events/chiya-and-chill/",
+          "start_date": "23/05/2025 2:00 pm",
+          "end_date": "23/05/2025 6:00 pm",
+          "desc": "<h2>Missing the cozy vibes of home and the unbeatable combo of spicy chatpate and warm chiya?</h2>\n<h3>We have got you covered!</h3>\n<p>Join us for an afternoon of good food, chill music and even better company to wind down after a long day of classes at Chippendale green.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "kendo",
+      "name": "Kendo",
+      "url": "https://www.activateuts.com.au/clubs/kendo/",
+      "events": null
+    },
+    {
+      "club_id": "labor-left-society",
+      "name": "Labor Left Society",
+      "url": "https://www.activateuts.com.au/clubs/labor-left-society/",
+      "events": null
+    },
+    {
+      "club_id": "target-rifle",
+      "name": "Target Rifle",
+      "url": "https://www.activateuts.com.au/clubs/target-rifle/",
+      "events": null
+    },
+    {
+      "club_id": "photography-society-photosoc",
+      "name": "Photography Society (PhotoSoc)",
+      "url": "https://www.activateuts.com.au/clubs/photography-society-photosoc/",
+      "events": [
+        {
+          "id": 451530,
+          "title": "Green Week Photo Competition 2025",
+          "url": "https://www.activateuts.com.au/events/green-week-photo-competition-2025/",
+          "start_date": "31/03/2025 2:00 pm",
+          "end_date": "02/05/2025 11:59 pm",
+          "desc": "<h1 id=\"formHeaderTitle_5\" class=\"pa-gb pa-lf pa-lb pa-cw pa-en pa-tj pa-sc pa-sb pa-tk \" style=\"border: 0px; margin-bottom: 0px; padding: 0px; font-family: 'Segoe UI', 'Segoe UI Web (West European)', -apple-system, system-ui, Roboto, 'Helvetica Neue', sans-serif; color: #242424; font-size: 20px; line-height: 28px; overflow-wrap: break-word; word-break: break-word; white-space: pre-wrap; outline: currentcolor; font-variant-ligatures: normal; orphans: 2; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\" title=\"Green Week Photo Competition 2025\" data-id=\"header_title\"><span style=\"font-weight: 400; white-space: normal; caret-color: rgba(0, 0, 0, 0.8); color: rgba(0, 0, 0, 0.8); font-family: 'Nunito Sans', sans-serif; font-size: 18px;\">ActivateUTS has teamed up with UTS Sustainability to search for the best image reflecting this year’s theme – </span><strong style=\"white-space: normal; caret-color: rgba(0, 0, 0, 0.8); color: rgba(0, 0, 0, 0.8); font-family: 'Nunito Sans', sans-serif; font-size: 18px;\">Urban Wild: Nature’s Comeback in the City.</strong></h1>\n<blockquote>\n<h5><strong>Theme description  </strong></h5>\n<p>Nature is closer than you think—even in the heart of the city. This year, capture the unexpected ways the natural world thrives in urban spaces. From plants reclaiming concrete corners to wildlife adapting to city life, show how nature persists and coexists alongside human environments.</p>\n<p>&nbsp;</p>\n<p>Whether it’s a rooftop garden, a bird nesting on a balcony, or greenery breaking through on our urban campus, share moments that remind us nature belongs everywhere—and how we can design cities that welcome it.</p></blockquote>\n<p>The contest is open to all UTS students, staff and alumni, and UTS College students.</p>\n<p>Besides bragging rights, you could score yourself a $300 voucher for taking out first prize.</p>\n<p style=\"margin-bottom: 0px !important;\">So, dig into your own photo archives and submit your either your best photos, or get snapping.</p>\n<p>Prizes up for grabs:</p>\n<ul>\n<li>First prize – $300 ActivateUTS Voucher</li>\n<li>Second prize – $100 ActivateUTS Voucher</li>\n<li>People’s Choice Award – Ultimate Student Merch Pack (valued at $100)</li>\n</ul>\n<p><b>Entries open 31 March 2025 and will close on 2 May 2025 at 11.59pm.  </b></p>\n<p>Shortlisted entries will be shared on <a style=\"border-top-width: medium; border-right-width: medium; border-left-width: medium; border-top-color: currentcolor; border-right-color: currentcolor; border-left-color: currentcolor; border-image-source: none;\" href=\"https://www.instagram.com/activateuts/\" target=\"_blank\" rel=\"noopener\">ActivateUTS Instagram page</a> from 7 May. Please refer to this page for the <a style=\"border-top-width: medium; border-right-width: medium; border-left-width: medium; border-top-color: currentcolor; border-right-color: currentcolor; border-left-color: currentcolor; border-image-source: none;\" href=\"https://www.activateuts.com.au/terms-conditions/green-week-photo-competition-2025-tcs/\">terms and conditions</a> for this competition.</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "bouldering-society",
+      "name": "Bouldering Society",
+      "url": "https://www.activateuts.com.au/clubs/bouldering-society/",
+      "events": [
+        {
+          "id": 398046,
+          "title": "Casual Climb @ 9 Degrees Waterloo",
+          "url": "https://www.activateuts.com.au/events/casual-climb-9-degrees-waterloo-15/",
+          "start_date": "23/04/2025 6:00 pm",
+          "end_date": "23/04/2025 10:00 pm",
+          "desc": "<h2>Get ready to climb!</h2>\n<p>The event will be held at 9 degrees waterloo, the event will start 6:00pm and end at 10:00pm. The ticket will be a way to keep track of people attending the event. Entry and all equipment will be bought and paid for through the gym.</p>\n<p>We are so keen to climb with you all! When you arrive, follow these few simple steps to get on the wall ASAP.</p>\n<p>1️⃣ Find an exec (identified by our shirts!) and check in with your ticket 🎟️</p>\n<p>2️⃣ Sign in with the gym and pay the discounted entry fee. If its your first time, fill out the waiver before you arrive to save even more time! (link below) 💲</p>\n<p>3️⃣ Get your shoes and get on the wall! If it is your first time, please follow staff directions to ensure you stay safe while crushing climbs 💪</p>\n<p>The gym is open until 10pm but you are welcome to leave anytime. We typically grab some dinner after a few hours, nothing beats a post-climb feed! 🍔🍕🍜</p>\n<p>There is plenty of public transport between the gym and UTS. Keep an eye on our Instagram for event updates!</p>\n<p>Please note that shoe hire is not included with the event.</p>\n"
+        },
+        {
+          "id": 457244,
+          "title": "EWB x Boulder Soc Collab Climb @ Nomad",
+          "url": "https://www.activateuts.com.au/events/ewb-x-boulder-soc-collab-climb-nomad/",
+          "start_date": "28/04/2025 6:00 pm",
+          "end_date": "28/04/2025 10:00 pm",
+          "desc": "<p>All attendees receive a sizeable entry discount, so don’t forget your 🏷️membership tags or ticket 🏷️</p>\n<p>We are so keen to climb with you all! When you arrive, follow these few simple steps to get on the wall ASAP.</p>\n<p>1️⃣ Find an exec (identified by our shirts!) and check in with your ticket 🎟️</p>\n<p>2️⃣ Sign in with the gym and pay the discounted entry fee. If its your first time, fill out the waiver before you arrive to save even more time! (link below) 💲</p>\n<p>3️⃣ Get your shoes and get on the wall! If it is your first time, please follow staff directions to ensure you stay safe while crushing climbs 💪</p>\n<p>There is plenty of public transport between the gym and UTS. Keep an eye on our Instagram for event updates!</p>\n<p>Please note that shoe hire is not included with the event.</p>\n"
+        },
+        {
+          "id": 429541,
+          "title": "Casual Climb @ BlocHaus Marrickville",
+          "url": "https://www.activateuts.com.au/events/casual-climb-blochaus-marrickville-9/",
+          "start_date": "30/04/2025 6:00 pm",
+          "end_date": "30/04/2025 10:00 pm",
+          "desc": "<p>The event will be held at BlocHause Marrickville, the event will start 6:00pm and end at 10:00pm. The ticket will be a way to keep track of people attending the event. Entry and all equipment will be bought and paid for through the gym.</p>\n<p>We are so keen to climb with you all! When you arrive, follow these few simple steps to get on the wall ASAP.</p>\n<p>1️⃣ Find an exec (identified by our shirts!) and check in with your ticket 🎟️</p>\n<p>2️⃣ Sign in with the gym and pay the discounted entry fee. If its your first time, fill out the waiver before you arrive to save even more time! (link below) 💲</p>\n<p>3️⃣ Get your shoes and get on the wall! If it is your first time, please follow staff directions to ensure you stay safe while crushing climbs 💪</p>\n<p>The gym is open until 10pm but you are welcome to leave anytime. We typically grab some dinner after a few hours, nothing beats a post-climb feed! 🍔🍕🍜</p>\n<p>There is plenty of public transport between the gym and UTS. Keep an eye on our Instagram for event updates!</p>\n<p>Please note that shoe hire is not included with the event.</p>\n"
+        },
+        {
+          "id": 398000,
+          "title": "Casual Climb @ 9 Degrees Alexandria",
+          "url": "https://www.activateuts.com.au/events/casual-climb-9-degrees-alexandria-20/",
+          "start_date": "05/05/2025 6:00 pm",
+          "end_date": "05/05/2025 10:00 pm",
+          "desc": "<h2>Join us on the walls!</h2>\n<p>The event will be held at 9 degrees Alexandria, the event will start 6:00pm and end at 10:00pm. The ticket will be a way to keep track of people attending the event. Entry and all equipment will be bought and paid for through the gym.</p>\n<p>We are so keen to climb with you all! When you arrive, follow these few simple steps to get on the wall ASAP.</p>\n<p>1️⃣ Find an exec (identified by our shirts!) and check in with your ticket 🎟️</p>\n<p>2️⃣ Sign in with the gym and pay the discounted entry fee. If its your first time, fill out the waiver before you arrive to save even more time! (link below) 💲</p>\n<p>3️⃣ Get your shoes and get on the wall! If it is your first time, please follow staff directions to ensure you stay safe while crushing climbs 💪</p>\n<p>The gym is open until 10pm but you are welcome to leave anytime. We typically grab some dinner after a few hours, nothing beats a post-climb feed! 🍔🍕🍜</p>\n<p>There is plenty of public transport between the gym and UTS. Keep an eye on our Instagram for event updates!</p>\n<p>Please note that shoe hire is not included with the event.</p>\n<p>&nbsp;</p>\n"
+        },
+        {
+          "id": 429486,
+          "title": "Casual Climb @ Nomad Annandale",
+          "url": "https://www.activateuts.com.au/events/casual-climb-nomad-annandale-3/",
+          "start_date": "07/05/2025 6:00 pm",
+          "end_date": "07/05/2025 10:00 pm",
+          "desc": "<p>The event will be held at Nomad Annandale, the event will start 6:00pm and end at 10:00pm. The ticket will be a way to keep track of people attending the event. Entry and all equipment will be bought and paid for through the gym.</p>\n<p>We are so keen to climb with you all! When you arrive, follow these few simple steps to get on the wall ASAP.</p>\n<p>1️⃣ Find an exec (identified by our shirts!) and check in with your ticket 🎟️</p>\n<p>2️⃣ Sign in with the gym and pay the discounted entry fee. If its your first time, fill out the waiver before you arrive to save even more time! (link below) 💲</p>\n<p>3️⃣ Get your shoes and get on the wall! If it is your first time, please follow staff directions to ensure you stay safe while crushing climbs 💪</p>\n<p>The gym is open until 10pm but you are welcome to leave anytime. We typically grab some dinner after a few hours, nothing beats a post-climb feed! 🍔🍕🍜</p>\n<p>There is plenty of public transport between the gym and UTS. Keep an eye on our Instagram for event updates!</p>\n<p>Please note that shoe hire is not included with the event.</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "motorcycle-society",
+      "name": "Motorcycle Society",
+      "url": "https://www.activateuts.com.au/clubs/motorcycle-society/",
+      "events": null
+    },
+    {
+      "club_id": "matcha-society",
+      "name": "Matcha Society",
+      "url": "https://www.activateuts.com.au/clubs/matcha-society/",
+      "events": null
+    },
+    {
+      "club_id": "programmers-society-progsoc",
+      "name": "Programmers' Society (ProgSoc)",
+      "url": "https://www.activateuts.com.au/clubs/programmers-society-progsoc/",
+      "events": null
+    },
+    {
+      "club_id": "african-students-society",
+      "name": "African Society",
+      "url": "https://www.activateuts.com.au/clubs/african-students-society/",
+      "events": null
+    },
+    {
+      "club_id": "volleyball",
+      "name": "Volleyball",
+      "url": "https://www.activateuts.com.au/clubs/volleyball/",
+      "events": null
+    },
+    {
+      "club_id": "neo-aramaic-society",
+      "name": "Neo-Aramaic Society",
+      "url": "https://www.activateuts.com.au/clubs/neo-aramaic-society/",
+      "events": [
+        {
+          "id": 452623,
+          "title": "Neo-Aramaic Society Games Night",
+          "url": "https://www.activateuts.com.au/events/neo-aramaic-society-games-night/",
+          "start_date": "24/04/2025 6:00 pm",
+          "end_date": "24/04/2025 8:00 pm",
+          "desc": "<p>Join the Neo-Aramaic Society for a night full of fun, laughter and friendly competition in our first ever Games Night !</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "handball",
+      "name": "Handball",
+      "url": "https://www.activateuts.com.au/clubs/handball/",
+      "events": null
+    },
+    {
+      "club_id": "nursing-and-midwifery-society-namsoc",
+      "name": "Nursing and Midwifery Society (NamSoc)",
+      "url": "https://www.activateuts.com.au/clubs/nursing-and-midwifery-society-namsoc/",
+      "events": null
+    },
+    {
+      "club_id": "bamiyan-society",
+      "name": "Bamiyan Society",
+      "url": "https://www.activateuts.com.au/clubs/bamiyan-society/",
+      "events": null
+    },
+    {
+      "club_id": "orthodox-society-sofia",
+      "name": "Orthodox Society (SOFIA)",
+      "url": "https://www.activateuts.com.au/clubs/orthodox-society-sofia/",
+      "events": null
+    },
+    {
+      "club_id": "golf",
+      "name": "Golf",
+      "url": "https://www.activateuts.com.au/clubs/golf/",
+      "events": [
+        {
+          "id": 456635,
+          "title": "Vibes at VOV",
+          "url": "https://www.activateuts.com.au/events/vibes-at-vov/",
+          "start_date": "26/04/2025 6:00 pm",
+          "end_date": "26/04/2025 8:00 pm",
+          "desc": "<p>Join us for a relaxed and fun evening designed to connect new and returning UTS Golf Club members in a friendly, indoor setting. Hosted at VOV Golf in Chatswood, this event promises to be the perfect mix of golf, games, and socializing.</p>\n<p>Activities include:</p>\n<ul>\n<li>Golf simulator games</li>\n<li>Mini-golf challenges</li>\n<li>Card games and social icebreakers to help you get to know fellow members</li>\n<li>Random prize giveaways to keep the excitement going</li>\n<li>Light bites including dim sum and other delicious Chinese-style snacks to fuel the fun</li>\n</ul>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "journalism-society",
+      "name": "Journalism Society",
+      "url": "https://www.activateuts.com.au/clubs/journalism-society/",
+      "events": null
+    },
+    {
+      "club_id": "karaoke-society",
+      "name": "Karaoke Society",
+      "url": "https://www.activateuts.com.au/clubs/karaoke-society/",
+      "events": null
+    },
+    {
+      "club_id": "enactus-uts",
+      "name": "Enactus UTS",
+      "url": "https://www.activateuts.com.au/clubs/enactus-uts/",
+      "events": null
+    },
+    {
+      "club_id": "cricket",
+      "name": "Cricket",
+      "url": "https://www.activateuts.com.au/clubs/cricket/",
+      "events": null
+    },
+    {
+      "club_id": "orthoptics-student-society-oss",
+      "name": "Orthoptics Student Society (OSS)",
+      "url": "https://www.activateuts.com.au/clubs/orthoptics-student-society-oss/",
+      "events": [
+        {
+          "id": 453689,
+          "title": "Trivia Night 2025",
+          "url": "https://www.activateuts.com.au/events/trivia-night-2025/",
+          "start_date": "02/05/2025 6:00 pm",
+          "end_date": "02/05/2025 9:00 pm",
+          "desc": "<p>UTS OSS is bringing back our annual trivia night! Come along for a few rounds of trivia, food and fun!</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "young-australian-lebanese-association-yala",
+      "name": "Young Australian Lebanese Association (YALA)",
+      "url": "https://www.activateuts.com.au/clubs/young-australian-lebanese-association-yala/",
+      "events": [
+        {
+          "id": 454566,
+          "title": "YALA Harbour Cruise",
+          "url": "https://www.activateuts.com.au/events/yala-harbour-cruise/",
+          "start_date": "03/05/2025 7:00 pm",
+          "end_date": "03/05/2025 11:00 pm",
+          "desc": "<h2 data-start=\"201\" data-end=\"297\">Set sail with YALA UTS on our biggest event of the year &#8211; the Intervarsity Harbour Cruise!</h2>\n<p class=\"\" data-start=\"299\" data-end=\"592\">Join Lebanese uni students from across Sydney for an unforgettable night of culture, music, and community. Expect a packed evening of entertainment with a live DJ, traditional Lebanese drums, unlimited food and drinks, professional photography, and the best views of Sydney Harbour by night.</p>\n<p class=\"\" data-start=\"594\" data-end=\"727\">Whether you&#8217;re coming to dance, vibe, or connect with other students from across NSW, this is the one event you don’t want to miss.</p>\n<h3 data-start=\"729\" data-end=\"751\">Tickets include:</h3>\n<ul data-start=\"752\" data-end=\"894\">\n<li class=\"\" data-start=\"752\" data-end=\"783\">\n<p class=\"\" data-start=\"754\" data-end=\"783\">4-hour cruise on The Cadman</p>\n</li>\n<li class=\"\" data-start=\"784\" data-end=\"813\">\n<p class=\"\" data-start=\"786\" data-end=\"813\">Unlimited food and drinks</p>\n</li>\n<li class=\"\" data-start=\"814\" data-end=\"841\">\n<p class=\"\" data-start=\"816\" data-end=\"841\">DJ &amp; live entertainment</p>\n</li>\n<li class=\"\" data-start=\"842\" data-end=\"858\">\n<p class=\"\" data-start=\"844\" data-end=\"858\">Photographer</p>\n</li>\n<li class=\"\" data-start=\"859\" data-end=\"894\">\n<p class=\"\" data-start=\"861\" data-end=\"894\">Harbour views you’ll never forget</p>\n</li>\n</ul>\n"
+        },
+        {
+          "id": 450497,
+          "title": "YALA Comedy Night",
+          "url": "https://www.activateuts.com.au/events/yala-comedy-night/",
+          "start_date": "15/05/2025 6:30 pm",
+          "end_date": "15/05/2025 8:15 pm",
+          "desc": "<h2>YALA Comedy Night!</h2>\n<p>Join us for a laughter-filled night with award-winning Lebanese Comic Fady Kassab</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "playmakers",
+      "name": "Playmakers",
+      "url": "https://www.activateuts.com.au/clubs/playmakers/",
+      "events": [
+        {
+          "id": 436231,
+          "title": "Playmakers Hangout",
+          "url": "https://www.activateuts.com.au/events/playmakers-hangout-8/",
+          "start_date": "23/04/2025 5:00 pm",
+          "end_date": "23/04/2025 9:00 pm",
+          "desc": "<h2>PLAYMAKERS HANGOUT everyone!!!</h2>\n<p>Back from stuvac~ Come join us as we chill and talk about what&#8217;s been goin&#8217; on since! Or vent about the assignments you gotta do then v-v</p>\n<p><strong>When:</strong> Wednesday, April 23rd, 5-9pm</p>\n<p><strong>Location: </strong>CB11.05.100</p>\n<p><strong>Who can attend: </strong>This event is free! Get your butt over here</p>\n<h3>Bring along:</h3>\n<ul>\n<li>Board games</li>\n<li>Consoles and controllers.</li>\n<li>Laptops</li>\n<li>Food</li>\n</ul>\n"
+        },
+        {
+          "id": 453845,
+          "title": "Playmakers Arcade",
+          "url": "https://www.activateuts.com.au/events/playmakers-arcade-2/",
+          "start_date": "07/05/2025 6:00 pm",
+          "end_date": "07/05/2025 9:00 pm",
+          "desc": "<h2>Showcase Your Games and Playtest Others at PLAYMAKERS ARCADE</h2>\n<p>Play some games, meet new people, and enjoy some <strong>free food</strong> on us!</p>\n<p>Have something you want to <strong>show off</strong> or get people to<strong> playtest</strong>? Come in at any time and <strong>bring your own device</strong> to run your game or prototype. <strong>Board and card games are welcome too! </strong>You will have access to tables, chairs, power outlets, and a spacious room to showcase in.</p>\n<p>Want to just check out the event, have fun or chill? Come on in and playtest local Sydney-made games, whilst enjoying some free food! Entry is completely <strong>free</strong> for everyone, so bring your friends along too!</p>\n<p><strong>When:</strong> Wednesday, May 7th, 6pm &#8211; 9pm. Recurring every first Wednesday of each month!</p>\n<p><strong>Where:</strong> UTS Building 2, Level 5, Room 290</p>\n<p><strong>Who:</strong> Everyone is welcome! Free entry with no tickets.</p>\n<p><strong>Join our Discord server for further updates and new announcements! </strong>https://discord.com/invite/9m49bUKjsJ</p>\n"
+        },
+        {
+          "id": 436216,
+          "title": "Playmakers SGM + Hangout",
+          "url": "https://www.activateuts.com.au/events/playmakers-hangout-3/",
+          "start_date": "14/05/2025 5:00 pm",
+          "end_date": "14/05/2025 9:00 pm",
+          "desc": "<h2>PLAYMAKERS HANGOUT!!!</h2>\n<p>Back from stuvac~ Come join us as we chill and talk about what’s been goin’ on since! Or vent about the assignments you gotta do then v-v</p>\n<ul>\n<li><strong>When: </strong>Wednesday, April 23rd, 5-9pm</li>\n<li><strong>Location:</strong> CB11.05.100</li>\n<li><strong>Who can attend: </strong>This event is free! Get your butt over here</li>\n</ul>\n<h3>Bring along:</h3>\n<ul>\n<li>Board games</li>\n<li>Consoles and controllers.</li>\n<li>Laptops</li>\n<li>Food</li>\n</ul>\n"
+        },
+        {
+          "id": 436234,
+          "title": "Playmakers Hangout",
+          "url": "https://www.activateuts.com.au/events/playmakers-hangout-9/",
+          "start_date": "28/05/2025 5:00 pm",
+          "end_date": "28/05/2025 9:00 pm",
+          "desc": "<h2>PLAYMAKERS HANGOUT!!!</h2>\n<p>Back from stuvac~ Come join us as we chill and talk about what’s been goin’ on since! Or vent about the assignments you gotta do then v-v</p>\n<ul>\n<li><strong>When: </strong>Wednesday, April 23rd, 5-9pm</li>\n<li><strong>Location:</strong> CB11.05.100</li>\n<li><strong>Who can attend: </strong>This event is free! Get your butt over here</li>\n</ul>\n<h3>Bring along:</h3>\n<ul>\n<li>Board games</li>\n<li>Consoles and controllers.</li>\n<li>Laptops</li>\n<li>Food</li>\n</ul>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "women-in-business",
+      "name": "Women in Business",
+      "url": "https://www.activateuts.com.au/clubs/women-in-business/",
+      "events": [
+        {
+          "id": 452637,
+          "title": "WiB Leading With Impact HR Panel",
+          "url": "https://www.activateuts.com.au/events/wib-leading-with-impact-hr-panel/",
+          "start_date": "29/04/2025 6:00 pm",
+          "end_date": "29/04/2025 8:00 pm",
+          "desc": "<p class=\"p1\">Join us for an empowering HR panel event hosted by Women in Business, featuring expert representatives from our esteemed sponsor companies.</p>\n<p class=\"p1\">This dynamic session will explore key HR trends, strategies for fostering inclusive workplaces, and insights into leadership and career growth. Don&rsquo;t miss the opportunity to connect with industry leaders, gain valuable knowledge, and be inspired by trailblazing women shaping the future of business.</p>\n"
+        },
+        {
+          "id": 433951,
+          "title": "Harbourside Picnic",
+          "url": "https://www.activateuts.com.au/events/harbourside-picnic/",
+          "start_date": "03/05/2025 11:30 am",
+          "end_date": "03/05/2025 1:00 pm",
+          "desc": "<p class=\"p1\">Set in a laid-back atmosphere, the event offers the perfect opportunity to connect with fellow WiB members, exchange ideas, and unwind with friends.</p>\n<p class=\"p1\">Attendees can enjoy the beautiful surroundings while engaging in friendly board game competitions, making it an ideal setting for networking and building meaningful connections.</p>\n"
+        },
+        {
+          "id": 428114,
+          "title": "WiB Sponsorship Speed Dating",
+          "url": "https://www.activateuts.com.au/events/wib-sponsorship-speed-dating-3/",
+          "start_date": "07/05/2025 6:00 pm",
+          "end_date": "07/05/2025 8:00 pm",
+          "desc": "<p class=\"p1\">This event will consist of a series of short networking sessions between students and sponsors. Students will have the opportunity to introduce themselves, discuss their goals and interests, gain valuable insights and mentorship and open doors to exciting opportunities!</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "alternative-fashion-society",
+      "name": "Alternative Fashion Society",
+      "url": "https://www.activateuts.com.au/clubs/alternative-fashion-society/",
+      "events": [
+        {
+          "id": 452011,
+          "title": "Alt Fashion x Drawing Circle Screenprinting",
+          "url": "https://www.activateuts.com.au/events/alt-fashion-x-drawing-circle-screenprinting/",
+          "start_date": "25/04/2025 12:00 pm",
+          "end_date": "25/04/2025 5:00 pm",
+          "desc": "<h2>Do you have old clothes you want to spice up? Or just wanna get into some screen printing?</h2>\n<h3>Join us this sem at our second Screen Printing sesh!</h3>\n<p>We will be providing scrap fabric to print on, but feel free to bring anything to print on: clothes, bags, fabric, etc. However please keep in mind that the screen printing ink is formulated for natural fibre materials so it won&rsquo;t stick to synthetic materials as well. We recommend printing on materials with over 50% natural fibres! We&rsquo;ve collated your favourite designs from our competition, and we&rsquo;re so excited for you to use them in person!</p>\n<p>Thank you to all artists for submitting! The artists of the screenprints have free entry.</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "ski-board",
+      "name": "Ski and Board (Skibuts)",
+      "url": "https://www.activateuts.com.au/clubs/ski-board/",
+      "events": null
+    },
+    {
+      "club_id": "student-outreach-to-the-world-sow-uts",
+      "name": "Student Outreach to the World (SOW UTS)",
+      "url": "https://www.activateuts.com.au/clubs/student-outreach-to-the-world-sow-uts/",
+      "events": null
+    },
+    {
+      "club_id": "thai-society",
+      "name": "Thai Society",
+      "url": "https://www.activateuts.com.au/clubs/thai-society/",
+      "events": null
+    },
+    {
+      "club_id": "sri-lankan-society",
+      "name": "Sri Lankan Society",
+      "url": "https://www.activateuts.com.au/clubs/sri-lankan-society/",
+      "events": [
+        {
+          "id": 457654,
+          "title": "Avurudu games",
+          "url": "https://www.activateuts.com.au/events/avurudu-games/",
+          "start_date": "27/04/2025 11:00 am",
+          "end_date": "27/04/2025 4:30 pm",
+          "desc": "<h2 data-start=\"135\" data-end=\"267\">Step into the spirit of Avurudu with UTS Avurudu &mdash; an unforgettable celebration of culture, community, and friendly competition.</h2>\n<p class=\"\" data-start=\"269\" data-end=\"583\">Join us for a full day of traditional Sinhala and Tamil New Year games, vibrant festivities, and a joyful gathering of students, alumni, and friends. From high-energy challenges to classic cultural moments, this event is your chance to embrace the richness of Sri Lankan heritage in a lively, welcoming atmosphere.</p>\n<p class=\"\" data-start=\"585\" data-end=\"824\">Enjoy timeless games like Tug of War, Sack Race, Balloon Pop, and the iconic Avurudu Kumara &amp; Kumari contest. Plus, show off your skills and spirit for a shot at <strong data-start=\"747\" data-end=\"824\">winning the grand cash prize awarded to the ultimate champion of the day.</strong></p>\n<h3 data-start=\"826\" data-end=\"847\">Event Highlights:</h3>\n<ul data-start=\"848\" data-end=\"1257\">\n<li class=\"\" data-start=\"848\" data-end=\"883\">\n<p class=\"\" data-start=\"850\" data-end=\"883\"><strong data-start=\"850\" data-end=\"859\">Date: </strong>Sunday, 27th April 2025</p>\n</li>\n<li class=\"\" data-start=\"884\" data-end=\"915\">\n<p class=\"\" data-start=\"886\" data-end=\"915\"><strong data-start=\"886\" data-end=\"895\">Time:</strong> 9:00 AM &ndash; 4:30 PM</p>\n</li>\n<li class=\"\" data-start=\"916\" data-end=\"961\">\n<p class=\"\" data-start=\"918\" data-end=\"961\"><strong data-start=\"918\" data-end=\"931\">Location:</strong> Wentworth Park, Ultimo 2007</p>\n</li>\n<li class=\"\" data-start=\"962\" data-end=\"992\">\n<p class=\"\" data-start=\"964\" data-end=\"992\"><strong data-start=\"964\" data-end=\"976\">Tickets:</strong> $8 per person</p>\n</li>\n<li class=\"\" data-start=\"993\" data-end=\"1068\">\n<p class=\"\" data-start=\"995\" data-end=\"1068\"><strong data-start=\"995\" data-end=\"1010\">Activities:</strong> Traditional Avurudu games, community contests, and more</p>\n</li>\n<li class=\"\" data-start=\"1069\" data-end=\"1122\">\n<p class=\"\" data-start=\"1071\" data-end=\"1122\"><strong data-start=\"1071\" data-end=\"1088\">Refreshments:</strong> Classic Avurudu sweets provided</p>\n</li>\n<li class=\"\" data-start=\"1123\" data-end=\"1188\">\n<p class=\"\" data-start=\"1125\" data-end=\"1188\"><strong data-start=\"1125\" data-end=\"1143\">What to Bring:</strong> Yourself, your friends, and festive energy</p>\n</li>\n<li class=\"\" data-start=\"1189\" data-end=\"1257\">\n<p class=\"\" data-start=\"1191\" data-end=\"1257\"><strong data-start=\"1191\" data-end=\"1206\">Cash Prize:</strong> Awarded to the overall winner of the day&rsquo;s games</p>\n</li>\n</ul>\n<p class=\"\" data-start=\"1259\" data-end=\"1392\">Whether you&rsquo;re there to compete or simply soak in the festive vibe, UTS Avurudu is where memories are made and traditions come alive.</p>\n<p class=\"\" data-start=\"1394\" data-end=\"1465\"><strong data-start=\"1394\" data-end=\"1465\" data-is-last-node=\"\">Get your ticket now &mdash; spaces are limited and the fun is guaranteed.</strong></p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "artificial-intelligence-society",
+      "name": "Artificial Intelligence Society",
+      "url": "https://www.activateuts.com.au/clubs/artificial-intelligence-society/",
+      "events": null
+    },
+    {
+      "club_id": "aikido",
+      "name": "Aikido",
+      "url": "https://www.activateuts.com.au/clubs/aikido/",
+      "events": null
+    },
+    {
+      "club_id": "calisthenics",
+      "name": "Calisthenics",
+      "url": "https://www.activateuts.com.au/clubs/calisthenics/",
+      "events": [
+        {
+          "id": 419243,
+          "title": "Calisthenics Tier 2 Membership",
+          "url": "https://www.activateuts.com.au/events/calisthenics-tier-2-membership/",
+          "start_date": "11/02/2025 9:11 am",
+          "end_date": "31/12/2025 11:11 am",
+          "desc": "<h2>Tier 2 Memership</h2>\n<p>Become a Tier 2 member and receive access to weekly gym workshops plus a 20% discount on your Activate.Fit Gym membership (once you&#8217;ve attended a gym workshop)</p>\n<p>Please note you must already be a member of Calisthenics club to be able to purchase Tier 2 Membership. Tier 2 Membership covers 12 weeks of CaliSoc gym workshops.</p>\n<p>&nbsp;</p>\n"
+        },
+        {
+          "id": 424420,
+          "title": "Weekly Workshop",
+          "url": "https://www.activateuts.com.au/events/weekly-workshop-9/",
+          "start_date": "27/04/2025 4:00 pm",
+          "end_date": "27/04/2025 5:00 pm",
+          "desc": "<p>UTS Calisthenics Society: Weekly Workshop</p>\n<p>Are you looking to keep fit or looking to build some serious upper body strength? Join us for our 11-week calisthenics program, designed to help athletes of all levels build a strong foundation and advance to more challenging moves.</p>\n<p>Whether you’re a beginner just starting out or an experienced athlete looking to level up, we&#8217;ve got you covered. Our workshops are divided into 3 groups—Beginner, Intermediate, and Advanced—with an experienced calisthenics coach assigned to each group to ensure you get the right guidance and progress at your own pace.</p>\n<p>Details:</p>\n<p>Location: UTS Gym (Building 4)<br />\nTime: Every Tuesday, 4:00pm &#8211; 5:00pm<br />\nTicket Cost:<br />\n$20 for members (covers all 11 weekly classes &#8211; requires Tier 2 Calisthenics membership)<br />\n$5 for members (one-time entry)<br />\n$10 for non-members (one-time entry)<br />\nNo equipment needed—just bring yourself and get ready to challenge your body. Whether you’re new to calisthenics or looking to sharpen your skills, this is the perfect opportunity to progress in a supportive environment!</p>\n<p>Sign up now and let’s build strength together!</p>\n"
+        },
+        {
+          "id": 424374,
+          "title": "Weekly Open Workshop / Meetup",
+          "url": "https://www.activateuts.com.au/events/weekly-open-workshop-meetup-4/",
+          "start_date": "29/04/2025 5:30 pm",
+          "end_date": "29/04/2025 6:30 pm",
+          "desc": "<p>UTS Calisthenics Society: Weekly Open Workshop / Social Meetup</p>\n<p>Looking for a fun, supportive environment to train and meet fellow calisthenics enthusiasts? Join us every Tuesday for our Weekly Open Workshop at Prince Alfred Park Outdoor Gym! This is a casual meetup where members can train together, share tips, and encourage each other.</p>\n<p>Whether you&#8217;re just starting out or looking to level up, this is the perfect space to train and learn.</p>\n<p>Details:</p>\n<p>Location: Prince Alfred Park Outdoor Gym<br />\nTime: Every Tuesday, 5:30pm &#8211; 6:30pm<br />\nTicket Cost:<br />\n$0 for members<br />\n$5 for non-members<br />\nPlease Note: All workshops will be closed during STUVAC and exam periods.</p>\n<p>No equipment needed—just bring yourself, your energy, and get ready to push your limits!</p>\n"
+        },
+        {
+          "id": 424406,
+          "title": "Weekly Workshop",
+          "url": "https://www.activateuts.com.au/events/weekly-workshop-3/",
+          "start_date": "04/05/2025 4:00 pm",
+          "end_date": "04/05/2025 5:00 pm",
+          "desc": "<p>UTS Calisthenics Society: Weekly Workshop</p>\n<p>Are you looking to keep fit or looking to build some serious upper body strength? Join us for our 11-week calisthenics program, designed to help athletes of all levels build a strong foundation and advance to more challenging moves.</p>\n<p>Whether you’re a beginner just starting out or an experienced athlete looking to level up, we&#8217;ve got you covered. Our workshops are divided into 3 groups—Beginner, Intermediate, and Advanced—with an experienced calisthenics coach assigned to each group to ensure you get the right guidance and progress at your own pace.</p>\n<p>Details:</p>\n<p>Location: UTS Gym (Building 4)<br />\nTime: Every Tuesday, 4:00pm &#8211; 5:00pm<br />\nTicket Cost:<br />\n$20 for members (covers all 11 weekly classes &#8211; requires Tier 2 Calisthenics membership)<br />\n$5 for members (one-time entry)<br />\n$10 for non-members (one-time entry)<br />\nNo equipment needed—just bring yourself and get ready to challenge your body. Whether you’re new to calisthenics or looking to sharpen your skills, this is the perfect opportunity to progress in a supportive environment!</p>\n<p>Sign up now and let’s build strength together!</p>\n"
+        },
+        {
+          "id": 424378,
+          "title": "Weekly Open Workshop / Meetup",
+          "url": "https://www.activateuts.com.au/events/weekly-open-workshop-meetup-6/",
+          "start_date": "06/05/2025 5:30 pm",
+          "end_date": "06/05/2025 6:30 pm",
+          "desc": "<p>UTS Calisthenics Society: Weekly Open Workshop / Social Meetup</p>\n<p>Looking for a fun, supportive environment to train and meet fellow calisthenics enthusiasts? Join us every Tuesday for our Weekly Open Workshop at Prince Alfred Park Outdoor Gym! This is a casual meetup where members can train together, share tips, and encourage each other.</p>\n<p>Whether you&#8217;re just starting out or looking to level up, this is the perfect space to train and learn.</p>\n<p>Details:</p>\n<p>Location: Prince Alfred Park Outdoor Gym<br />\nTime: Every Tuesday, 5:30pm &#8211; 6:30pm<br />\nTicket Cost:<br />\n$0 for members<br />\n$5 for non-members<br />\nPlease Note: All workshops will be closed during STUVAC and exam periods.</p>\n<p>No equipment needed—just bring yourself, your energy, and get ready to push your limits!</p>\n"
+        },
+        {
+          "id": 424448,
+          "title": "Weekly Workshop",
+          "url": "https://www.activateuts.com.au/events/weekly-workshop-11/",
+          "start_date": "11/05/2025 4:00 pm",
+          "end_date": "11/05/2025 5:00 pm",
+          "desc": "<p>UTS Calisthenics Society: Weekly Workshop</p>\n<p>Are you looking to keep fit or looking to build some serious upper body strength? Join us for our 11-week calisthenics program, designed to help athletes of all levels build a strong foundation and advance to more challenging moves.</p>\n<p>Whether you’re a beginner just starting out or an experienced athlete looking to level up, we&#8217;ve got you covered. Our workshops are divided into 3 groups—Beginner, Intermediate, and Advanced—with an experienced calisthenics coach assigned to each group to ensure you get the right guidance and progress at your own pace.</p>\n<p>Details:</p>\n<p>Location: UTS Gym (Building 4)<br />\nTime: Every Tuesday, 4:00pm &#8211; 5:00pm<br />\nTicket Cost:<br />\n$20 for members (covers all 11 weekly classes &#8211; requires Tier 2 Calisthenics membership)<br />\n$5 for members (one-time entry)<br />\n$10 for non-members (one-time entry)<br />\nNo equipment needed—just bring yourself and get ready to challenge your body. Whether you’re new to calisthenics or looking to sharpen your skills, this is the perfect opportunity to progress in a supportive environment!</p>\n<p>Sign up now and let’s build strength together!</p>\n"
+        },
+        {
+          "id": 424382,
+          "title": "Weekly Open Workshop / Meetup",
+          "url": "https://www.activateuts.com.au/events/weekly-open-workshop-meetup-8/",
+          "start_date": "13/05/2025 5:30 pm",
+          "end_date": "13/05/2025 6:30 pm",
+          "desc": "<p>UTS Calisthenics Society: Weekly Open Workshop / Social Meetup</p>\n<p>Looking for a fun, supportive environment to train and meet fellow calisthenics enthusiasts? Join us every Tuesday for our Weekly Open Workshop at Prince Alfred Park Outdoor Gym! This is a casual meetup where members can train together, share tips, and encourage each other.</p>\n<p>Whether you&#8217;re just starting out or looking to level up, this is the perfect space to train and learn.</p>\n<p>Details:</p>\n<p>Location: Prince Alfred Park Outdoor Gym<br />\nTime: Every Tuesday, 5:30pm &#8211; 6:30pm<br />\nTicket Cost:<br />\n$0 for members<br />\n$5 for non-members<br />\nPlease Note: All workshops will be closed during STUVAC and exam periods.</p>\n<p>No equipment needed—just bring yourself, your energy, and get ready to push your limits!</p>\n"
+        },
+        {
+          "id": 424445,
+          "title": "Weekly Workshop",
+          "url": "https://www.activateuts.com.au/events/weekly-workshop-10/",
+          "start_date": "18/05/2025 4:00 pm",
+          "end_date": "18/05/2025 5:00 pm",
+          "desc": "<p>UTS Calisthenics Society: Weekly Workshop</p>\n<p>Are you looking to keep fit or looking to build some serious upper body strength? Join us for our 11-week calisthenics program, designed to help athletes of all levels build a strong foundation and advance to more challenging moves.</p>\n<p>Whether you’re a beginner just starting out or an experienced athlete looking to level up, we&#8217;ve got you covered. Our workshops are divided into 3 groups—Beginner, Intermediate, and Advanced—with an experienced calisthenics coach assigned to each group to ensure you get the right guidance and progress at your own pace.</p>\n<p>Details:</p>\n<p>Location: UTS Gym (Building 4)<br />\nTime: Every Tuesday, 4:00pm &#8211; 5:00pm<br />\nTicket Cost:<br />\n$20 for members (covers all 11 weekly classes &#8211; requires Tier 2 Calisthenics membership)<br />\n$5 for members (one-time entry)<br />\n$10 for non-members (one-time entry)<br />\nNo equipment needed—just bring yourself and get ready to challenge your body. Whether you’re new to calisthenics or looking to sharpen your skills, this is the perfect opportunity to progress in a supportive environment!</p>\n<p>Sign up now and let’s build strength together!</p>\n"
+        },
+        {
+          "id": 429562,
+          "title": "EOS Set N Reps",
+          "url": "https://www.activateuts.com.au/events/eos-set-n-reps/",
+          "start_date": "08/06/2025 10:00 am",
+          "end_date": "08/06/2025 4:00 pm",
+          "desc": "<p>UTS Calisoc: End of Semester Sets &amp; Reps Competition</p>\n<p>It’s time to test your might after a heavy training session! The EOS Sets &amp; Reps Competition features challenges at Beginner, Intermediate, and Advanced levels. Athletes compete in exercises like knee push-ups, Australian rows, pull-ups, dips &amp; muscle-ups. Top 3 athlete in each category (Beginner, Intermediate &amp; Advance) will win prizes and a trophy to take home.</p>\n<p>Categories:</p>\n<p>Beginner: Knee push-ups &amp; Australian rows<br />\nIntermediate: Pull-ups &amp; Dips<br />\nAdvanced: Muscle-ups, Pull-ups &amp; Dips<br />\nPrizes: 1st, 2nd, and 3rd place trophies, arm sleeves, wrist wraps, chalk, and more!</p>\n<p>Details:</p>\n<p>Date: 8th of June 2025<br />\nTime: 10:00am &#8211; 4:00pm<br />\nLocation: Building 1 Level 3 Concourse<br />\nTicket Price:<br />\n$10 (Members)<br />\n$15 (Non-members)</p>\n<p>Don’t miss your chance to compete, win, and celebrate your progress!</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "ultimate-frisbee",
+      "name": "Ultimate Frisbee",
+      "url": "https://www.activateuts.com.au/clubs/ultimate-frisbee/",
+      "events": null
+    },
+    {
+      "club_id": "reisa",
+      "name": "Real Estate Investment Student Association (REISA)",
+      "url": "https://www.activateuts.com.au/clubs/reisa/",
+      "events": null
+    },
+    {
+      "club_id": "hiking-club",
+      "name": "Hiking Club",
+      "url": "https://www.activateuts.com.au/clubs/hiking-club/",
+      "events": [
+        {
+          "id": 457652,
+          "title": "Waves & Wonders: Hike to the Iconic Figure 8",
+          "url": "https://www.activateuts.com.au/events/waves-wonders-hike-to-the-iconic-figure-8/",
+          "start_date": "26/04/2025 8:00 am",
+          "end_date": "26/04/2025 8:30 pm",
+          "desc": "<h2>Join UTS Hiking Club for a scenic and adventurous day exploring one of Sydney’s most unique natural wonders – the Figure 8 Rock Pools in Royal National Park.</h2>\n<p><span style=\"font-weight: 400;\">This </span><strong>moderately challenging 6.1 km hike</strong><span style=\"font-weight: 400;\"> begins at Otford and takes you through </span><strong>dense forest, panoramic coastal tracks,</strong><span style=\"font-weight: 400;\"> and the </span><strong>rugged beauty of Burning Palms Beach</strong><span style=\"font-weight: 400;\"> before reaching the pools. This formation of naturally carved rock pools is famous for its perfect figure-eight shape – but it’s only safely accessible at low tide, so timing is everything!</span></p>\n<p><span style=\"font-weight: 400;\">This hike includes:</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><strong>Burgh Ridge Descent</strong><span style=\"font-weight: 400;\"> – Lush forest and elevated views</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><strong>Burning Palms Beach</strong><span style=\"font-weight: 400;\"> – Historic surf club and heritage huts</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><strong>Figure 8 Pools </strong><span style=\"font-weight: 400;\">– Naturally formed pools carved into volcanic rock</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><strong>Photo Spots</strong><span style=\"font-weight: 400;\"> – Multiple rest points and scenic breaks</span></li>\n</ul>\n<h3>EVENT DETAILS:</h3>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><strong>Meeting Point:</strong><span style=\"font-weight: 400;\"> Central Station, Kiss &amp; Ride Bay – 8:00 AM</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><strong>Transport: </strong><span style=\"font-weight: 400;\">Train from Central to Sutherland + Bus Replacement to Otford (Opal card required)</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><strong>Hike Route:</strong><span style=\"font-weight: 400;\"> Otford Station → Burning Palms → Figure 8 Pools (Moderate difficulty, out-and-back)</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><strong>Return Time:</strong><span style=\"font-weight: 400;\"> Back to Central by approx. 8:20 PM</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><strong>Tide Check: </strong><span style=\"font-weight: 400;\">Visit only during low tide – final timing will be adjusted if required for safety</span></li>\n</ul>\n<h4>WHAT’S INCLUDED?</h4>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><strong>Subs &amp; Drinks</strong><span style=\"font-weight: 400;\"> – Enjoy a fresh sub or sandwich and a drink to refuel after the hike.</span></li>\n</ul>\n<h4>WHAT TO EXPECT:</h4>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Steep descents and rugged beach trails</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Coastal cliffs, rainforest pathways, and rock platforms</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Cold but scenic dip (if safe conditions allow)</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Group bonding and photo opportunities</span></li>\n</ul>\n<h4>WHAT TO BRING:</h4>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Good hiking shoes</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">2L water minimum</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Swimsuit and towel (optional, tide and safety permitting)</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Hat, sunscreen, sunglasses</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Snacks and packed lunch</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Opal card or contactless for transport</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Lightweight rain jacket</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Power bank</span></li>\n</ul>\n<p><strong>Among the trees and stones, I find a quiet love that asks for nothing in return.</strong></p>\n<p><em>Please note: Members may purchase only one ticket. Tickets are not transferable to non-members.</em></p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "pasifika",
+      "name": "Pasifika",
+      "url": "https://www.activateuts.com.au/clubs/pasifika/",
+      "events": null
+    },
+    {
+      "club_id": "pc-society",
+      "name": "PC Society",
+      "url": "https://www.activateuts.com.au/clubs/pc-society/",
+      "events": [
+        {
+          "id": 456161,
+          "title": "PC Building Workshop",
+          "url": "https://www.activateuts.com.au/events/pc-building-workshop/",
+          "start_date": "19/05/2025 5:00 pm",
+          "end_date": "19/05/2025 8:30 pm",
+          "desc": "<h2 id=\"message-content-1363286151774863380\" class=\"markup__75297 messageContent_c19a55\">Have you ever been curious on how to build a pc? Maybe the thought of building a PC was enough to scare you away?</h2>\n<p>Well look no further as PCSoc will be holding our very first hands on PC Building Workshop, where you will practice on how to assemble your very own pc from A to Z.</p>\n<p>Whether you are a complete noob or a seasoned veteran, join us in this workshop as you will:</p>\n<ul>\n<li class=\"markup__75297 messageContent_c19a55\">Learn about the different components of a PC ( MOBO, CPU, GPU, RAM)</li>\n<li class=\"markup__75297 messageContent_c19a55\">Get tips and advice on how to assemble your system like a pro</li>\n<li class=\"markup__75297 messageContent_c19a55\">Snack on free pizza and drinks while you learn</li>\n<li class=\"markup__75297 messageContent_c19a55\">Gain the confidence to build your own pc in the future</li>\n<li class=\"markup__75297 messageContent_c19a55\">Make friends</li>\n</ul>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "australian-chinese-society",
+      "name": "Australian Chinese Society",
+      "url": "https://www.activateuts.com.au/clubs/australian-chinese-society/",
+      "events": [
+        {
+          "id": 446789,
+          "title": "ACS PR graduation ceremony",
+          "url": "https://www.activateuts.com.au/events/acs-pr-graduation-ceremony/",
+          "start_date": "26/04/2025 4:00 pm",
+          "end_date": "26/04/2025 6:00 pm",
+          "desc": "<p>Celebrate the success of our ACS PR Training Program graduates at our special Graduation Ceremony.</p>\n"
+        },
+        {
+          "id": 450838,
+          "title": "Knots Of Fortune -Bracelet making workshop",
+          "url": "https://www.activateuts.com.au/events/knots-of-fortune-bracelet-making-workshop/",
+          "start_date": "28/04/2025 12:00 pm",
+          "end_date": "28/04/2025 2:00 pm",
+          "desc": "<p>Celebrate Chinese Culture with traditional bracelet-making workshop.</p>\n<p>Craft lucky charm bracelets and embrace meaningful designs while having fun.</p>\n"
+        },
+        {
+          "id": 452689,
+          "title": "C-POP Movement- Dance class",
+          "url": "https://www.activateuts.com.au/events/c-pop-movement-dance-class-6/",
+          "start_date": "29/04/2025 12:00 pm",
+          "end_date": "29/04/2025 1:00 pm",
+          "desc": "<h2>Passionate about C-POP and dance?</h2>\n<p>Our C-POP dance session is for you! enjoy a supportive environment to practice your favourite C-POP dance at UTS.</p>\n"
+        },
+        {
+          "id": 452694,
+          "title": "C-POP Movement- Dance class",
+          "url": "https://www.activateuts.com.au/events/c-pop-movement-dance-class-7/",
+          "start_date": "06/05/2025 12:00 pm",
+          "end_date": "06/05/2025 1:00 pm",
+          "desc": "<h2>Passionate about C-POP and dance?</h2>\n<p>Our C-POP dance session is for you! enjoy a supportive environment to practice your favourite C-POP dances at UTS</p>\n"
+        },
+        {
+          "id": 452699,
+          "title": "C-POP Movement- Dance class",
+          "url": "https://www.activateuts.com.au/events/c-pop-movement-dance-class-8/",
+          "start_date": "13/05/2025 12:00 pm",
+          "end_date": "13/05/2025 1:00 pm",
+          "desc": "<h2>Passionate about C-POP and dance?</h2>\n<p>Our C-POP dance sessions are for you! enjoy a supportive environment to practice your favourite C-POP dances at UTS</p>\n"
+        },
+        {
+          "id": 452704,
+          "title": "C-POP Movement- Dance class",
+          "url": "https://www.activateuts.com.au/events/c-pop-movement-dance-class-9/",
+          "start_date": "20/05/2025 12:00 pm",
+          "end_date": "20/05/2025 1:00 pm",
+          "desc": "<h2>Passionate about C-POP and dance?</h2>\n<p>Our C-POP dance session is for you! enjoy a supportive environment to practice your favourite C-POP dances at UTS</p>\n"
+        },
+        {
+          "id": 454934,
+          "title": "ACS CHINATOWN STREET MARKET NIGHT TOUR",
+          "url": "https://www.activateuts.com.au/events/acs-chinatown-street-market-night-tour/",
+          "start_date": "23/05/2025 5:00 pm",
+          "end_date": "23/05/2025 6:00 pm",
+          "desc": "<h2 data-start=\"82\" data-end=\"345\">Join the ACS team for a relaxed evening as we explore the Chinatown Night Market together.</h2>\n<p class=\"\" data-start=\"82\" data-end=\"345\">We’ll meet at 5:00 PM at the security entrance of UTS Building 1 before heading off as a group to explore the sights, sounds, and flavors of the night.</p>\n<p class=\"\" data-start=\"347\" data-end=\"500\">It’s the perfect night to enjoy great food, share laughs with wonderful company—and who knows? You might just meet someone special under the city lights.</p>\n"
+        },
+        {
+          "id": 452709,
+          "title": "C-POP Movement- Dance class",
+          "url": "https://www.activateuts.com.au/events/c-pop-movement-dance-class-10/",
+          "start_date": "27/05/2025 12:00 pm",
+          "end_date": "27/05/2025 1:00 pm",
+          "desc": "<h2>Passionate about C-POP and dance?</h2>\n<p>Our C-POP dance session is for you! enjoy a supportive environment to practive your favourite C-POP dances at UTS</p>\n"
+        },
+        {
+          "id": 445597,
+          "title": "Zongzi festival workshop",
+          "url": "https://www.activateuts.com.au/events/zongzi-festival-workshop/",
+          "start_date": "30/05/2025 5:00 pm",
+          "end_date": "30/05/2025 6:00 pm",
+          "desc": "<h2>Join the UTS Chinese Club for a hands-on Zongzi-Making Workshop and celebrate this delicious tradition!</h2>\n<p>Zongzi (粽子) are sticky rice dumplings wrapped in bamboo leaves, traditionally enjoyed during the Dragon Boat Festival.</p>\n<p><strong>Date &amp; Time</strong>: 30 May 2025, 5:00 PM &ndash; 6:00 PM</p>\n<p><strong>Location</strong>: CB10.04.460, 235 Jones Street, Ultimo NSW 2007</p>\n<p>Learn step-by-step how to wrap, tie, and steam your own zongzi, all while discovering the cultural significance behind this festive dish. No experience needed&mdash;just bring your enthusiasm and appetite!</p>\n<p>Spaces are limited, so register now and don&rsquo;t miss out on this fun and flavorful experience!</p>\n"
+        },
+        {
+          "id": 452716,
+          "title": "C-POP Movement- Dance class",
+          "url": "https://www.activateuts.com.au/events/c-pop-movement-dance-class-11/",
+          "start_date": "03/06/2025 12:00 pm",
+          "end_date": "03/06/2025 1:00 pm",
+          "desc": "<h2>Passionate about C-POP and dance?</h2>\n<p>Our C-POP dance sessions are for you! enjoy a supportive environment to practice your favourite C-POP dances at UTS</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "rocketry-society",
+      "name": "Rocketry Society",
+      "url": "https://www.activateuts.com.au/clubs/rocketry-society/",
+      "events": null
+    },
+    {
+      "club_id": "tennis",
+      "name": "Tennis",
+      "url": "https://www.activateuts.com.au/clubs/tennis/",
+      "events": null
+    },
+    {
+      "club_id": "karate",
+      "name": "Karate",
+      "url": "https://www.activateuts.com.au/clubs/karate/",
+      "events": [
+        {
+          "id": 452833,
+          "title": "Training session fees",
+          "url": "https://www.activateuts.com.au/events/training-session-fees-3/",
+          "start_date": "01/04/2025 5:30 pm",
+          "end_date": "20/12/2025 7:00 pm",
+          "desc": "<p>A combination of light and intense, beginner and advanced, social and competitition level &#8211; self defense (Bunkai), traditional forms (Kata) and athletic karate fighting (Kumite), are taught and practiced at these training sessions. We offer a comfortable and enjoyable training space for everyone with first two free trial sessions.</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "focus",
+      "name": "FOCUS",
+      "url": "https://www.activateuts.com.au/clubs/focus/",
+      "events": null
+    },
+    {
+      "club_id": "crafter-noons",
+      "name": "Crafter-noons",
+      "url": "https://www.activateuts.com.au/clubs/crafter-noons/",
+      "events": [
+        {
+          "id": 453330,
+          "title": "Zine Night",
+          "url": "https://www.activateuts.com.au/events/zine-night/",
+          "start_date": "23/04/2025 6:00 pm",
+          "end_date": "23/04/2025 8:00 pm",
+          "desc": "<p>Join us in The Loft for a Zine making night!</p>\n"
+        },
+        {
+          "id": 439313,
+          "title": "Weekly Craft Nights",
+          "url": "https://www.activateuts.com.au/events/weekly-craft-nights-49/",
+          "start_date": "24/04/2025 3:00 pm",
+          "end_date": "24/04/2025 5:00 pm",
+          "desc": "<p>Come along for an afternoon filled with Craft!</p>\n<p>Choose from the materials provided to craft anything you can think of.</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "basketball",
+      "name": "Basketball",
+      "url": "https://www.activateuts.com.au/clubs/basketball/",
+      "events": [
+        {
+          "id": 453842,
+          "title": "Weekly Basketball Scrimmages",
+          "url": "https://www.activateuts.com.au/events/weekly-basketball-scrimmages/",
+          "start_date": "07/04/2025 12:00 am",
+          "end_date": "17/12/2025 12:00 am",
+          "desc": "<h2>🏀 UTS Basketball Weekly Scrimmages 🏀</h2>\n<h4>Join us for UTS Basketball&#8217;s weekly scrimmages every week</h4>\n<ul>\n<li>Mondays 4 &#8211; 6PM</li>\n<li>Wednesdays 4 &#8211; 6PM</li>\n<li>Thursdays 9 &#8211; 10AM (Women Only)</li>\n</ul>\n<p data-start=\"117\" data-end=\"500\">Whether you&#8217;re between classes or enjoying a day off, these casual pick-up games offer a great opportunity to get some exercise, enjoy basketball, and meet new friends in a relaxed yet competitive environment.</p>\n<p data-start=\"502\" data-end=\"815\">These scrimmages are <strong>FREE</strong> to all UTS Basketball members. To join in, simply make sure you have an active UTS Basketball membership and show it to the attendant when you arrive.</p>\n<p data-start=\"817\" data-end=\"972\">Whether you&#8217;re a seasoned player or just looking for some casual fun, everyone is welcome to come out and play.</p>\n<p data-start=\"817\" data-end=\"972\">We look forward to seeing you on the court!  🤝</p>\n"
+        },
+        {
+          "id": 453818,
+          "title": "UTS Basketball Women’s Learn 2 Play",
+          "url": "https://www.activateuts.com.au/events/uts-basketball-womens-learn-2-play-7/",
+          "start_date": "29/04/2025 9:00 am",
+          "end_date": "29/04/2025 10:00 am",
+          "desc": "<p class=\"\" data-start=\"96\" data-end=\"153\">🏀 <strong data-start=\"99\" data-end=\"150\">Come Along to Our Women&#8217;s Learn 2 Play Program!</strong> 🏀</p>\n<p class=\"\" data-start=\"155\" data-end=\"306\">Looking to improve your basketball skills, stay fit, and make new friends? Join us every <strong data-start=\"244\" data-end=\"276\">Tuesday from 9:00 &#8211; 10:00 AM</strong> for the rest of the semester!</p>\n<p class=\"\" data-start=\"308\" data-end=\"429\">Whether you&#8217;re new to basketball or looking to refine your skills, this program is perfect for you. <strong data-start=\"408\" data-end=\"429\">Sessions include:</strong></p>\n<ul data-start=\"430\" data-end=\"541\">\n<li class=\"\" data-start=\"430\" data-end=\"456\">\n<p class=\"\" data-start=\"432\" data-end=\"456\">Skill-building exercises</p>\n</li>\n<li class=\"\" data-start=\"457\" data-end=\"476\">\n<p class=\"\" data-start=\"459\" data-end=\"476\">Shooting practice</p>\n</li>\n<li class=\"\" data-start=\"477\" data-end=\"502\">\n<p class=\"\" data-start=\"479\" data-end=\"502\">Fun, friendly game play</p>\n</li>\n<li class=\"\" data-start=\"503\" data-end=\"541\">\n<p class=\"\" data-start=\"505\" data-end=\"541\">Opportunities to connect with others</p>\n</li>\n</ul>\n<p class=\"\" data-start=\"543\" data-end=\"689\"><strong data-start=\"543\" data-end=\"579\">Free for UTS Basketball Members!</strong><br data-start=\"579\" data-end=\"582\" />Not a member? No worries! Come try your first session for FREE before deciding to commit to a membership.</p>\n<p class=\"\" data-start=\"691\" data-end=\"837\"><strong data-start=\"691\" data-end=\"760\">Coached by UTS’s very own Intervarsity Women&#8217;s Basketball Players</strong>, you&#8217;ll receive expert guidance in a supportive and encouraging environment.</p>\n<p class=\"\" data-start=\"839\" data-end=\"939\">Don&#8217;t miss out on the chance to get fit, learn basketball, and make lifelong friends. See you there!</p>\n"
+        },
+        {
+          "id": 453817,
+          "title": "UTS Basketball Women’s Learn 2 Play",
+          "url": "https://www.activateuts.com.au/events/uts-basketball-womens-learn-2-play-6/",
+          "start_date": "06/05/2025 9:00 am",
+          "end_date": "06/05/2025 10:00 am",
+          "desc": "<p class=\"\" data-start=\"96\" data-end=\"153\">🏀 <strong data-start=\"99\" data-end=\"150\">Come Along to Our Women&#8217;s Learn 2 Play Program!</strong> 🏀</p>\n<p class=\"\" data-start=\"155\" data-end=\"306\">Looking to improve your basketball skills, stay fit, and make new friends? Join us every <strong data-start=\"244\" data-end=\"276\">Tuesday from 9:00 &#8211; 10:00 AM</strong> for the rest of the semester!</p>\n<p class=\"\" data-start=\"308\" data-end=\"429\">Whether you&#8217;re new to basketball or looking to refine your skills, this program is perfect for you. <strong data-start=\"408\" data-end=\"429\">Sessions include:</strong></p>\n<ul data-start=\"430\" data-end=\"541\">\n<li class=\"\" data-start=\"430\" data-end=\"456\">\n<p class=\"\" data-start=\"432\" data-end=\"456\">Skill-building exercises</p>\n</li>\n<li class=\"\" data-start=\"457\" data-end=\"476\">\n<p class=\"\" data-start=\"459\" data-end=\"476\">Shooting practice</p>\n</li>\n<li class=\"\" data-start=\"477\" data-end=\"502\">\n<p class=\"\" data-start=\"479\" data-end=\"502\">Fun, friendly game play</p>\n</li>\n<li class=\"\" data-start=\"503\" data-end=\"541\">\n<p class=\"\" data-start=\"505\" data-end=\"541\">Opportunities to connect with others</p>\n</li>\n</ul>\n<p class=\"\" data-start=\"543\" data-end=\"689\"><strong data-start=\"543\" data-end=\"579\">Free for UTS Basketball Members!</strong><br data-start=\"579\" data-end=\"582\" />Not a member? No worries! Come try your first session for FREE before deciding to commit to a membership.</p>\n<p class=\"\" data-start=\"691\" data-end=\"837\"><strong data-start=\"691\" data-end=\"760\">Coached by UTS’s very own Intervarsity Women&#8217;s Basketball Players</strong>, you&#8217;ll receive expert guidance in a supportive and encouraging environment.</p>\n<p class=\"\" data-start=\"839\" data-end=\"939\">Don&#8217;t miss out on the chance to get fit, learn basketball, and make lifelong friends. See you there!</p>\n"
+        },
+        {
+          "id": 453816,
+          "title": "UTS Basketball Women’s Learn 2 Play",
+          "url": "https://www.activateuts.com.au/events/uts-basketball-womens-learn-2-play-5/",
+          "start_date": "13/05/2025 9:00 am",
+          "end_date": "13/05/2025 10:00 am",
+          "desc": "<p class=\"\" data-start=\"96\" data-end=\"153\">🏀 <strong data-start=\"99\" data-end=\"150\">Come Along to Our Women&#8217;s Learn 2 Play Program!</strong> 🏀</p>\n<p class=\"\" data-start=\"155\" data-end=\"306\">Looking to improve your basketball skills, stay fit, and make new friends? Join us every <strong data-start=\"244\" data-end=\"276\">Tuesday from 9:00 &#8211; 10:00 AM</strong> for the rest of the semester!</p>\n<p class=\"\" data-start=\"308\" data-end=\"429\">Whether you&#8217;re new to basketball or looking to refine your skills, this program is perfect for you. <strong data-start=\"408\" data-end=\"429\">Sessions include:</strong></p>\n<ul data-start=\"430\" data-end=\"541\">\n<li class=\"\" data-start=\"430\" data-end=\"456\">\n<p class=\"\" data-start=\"432\" data-end=\"456\">Skill-building exercises</p>\n</li>\n<li class=\"\" data-start=\"457\" data-end=\"476\">\n<p class=\"\" data-start=\"459\" data-end=\"476\">Shooting practice</p>\n</li>\n<li class=\"\" data-start=\"477\" data-end=\"502\">\n<p class=\"\" data-start=\"479\" data-end=\"502\">Fun, friendly game play</p>\n</li>\n<li class=\"\" data-start=\"503\" data-end=\"541\">\n<p class=\"\" data-start=\"505\" data-end=\"541\">Opportunities to connect with others</p>\n</li>\n</ul>\n<p class=\"\" data-start=\"543\" data-end=\"689\"><strong data-start=\"543\" data-end=\"579\">Free for UTS Basketball Members!</strong><br data-start=\"579\" data-end=\"582\" />Not a member? No worries! Come try your first session for FREE before deciding to commit to a membership.</p>\n<p class=\"\" data-start=\"691\" data-end=\"837\"><strong data-start=\"691\" data-end=\"760\">Coached by UTS’s very own Intervarsity Women&#8217;s Basketball Players</strong>, you&#8217;ll receive expert guidance in a supportive and encouraging environment.</p>\n<p class=\"\" data-start=\"839\" data-end=\"939\">Don&#8217;t miss out on the chance to get fit, learn basketball, and make lifelong friends. See you there!</p>\n"
+        },
+        {
+          "id": 453815,
+          "title": "UTS Basketball Women’s Learn 2 Play",
+          "url": "https://www.activateuts.com.au/events/uts-basketball-womens-learn-2-play-4/",
+          "start_date": "20/05/2025 9:00 am",
+          "end_date": "20/05/2025 10:00 am",
+          "desc": "<p class=\"\" data-start=\"96\" data-end=\"153\">🏀 <strong data-start=\"99\" data-end=\"150\">Come Along to Our Women&#8217;s Learn 2 Play Program!</strong> 🏀</p>\n<p class=\"\" data-start=\"155\" data-end=\"306\">Looking to improve your basketball skills, stay fit, and make new friends? Join us every <strong data-start=\"244\" data-end=\"276\">Tuesday from 9:00 &#8211; 10:00 AM</strong> for the rest of the semester!</p>\n<p class=\"\" data-start=\"308\" data-end=\"429\">Whether you&#8217;re new to basketball or looking to refine your skills, this program is perfect for you. <strong data-start=\"408\" data-end=\"429\">Sessions include:</strong></p>\n<ul data-start=\"430\" data-end=\"541\">\n<li class=\"\" data-start=\"430\" data-end=\"456\">\n<p class=\"\" data-start=\"432\" data-end=\"456\">Skill-building exercises</p>\n</li>\n<li class=\"\" data-start=\"457\" data-end=\"476\">\n<p class=\"\" data-start=\"459\" data-end=\"476\">Shooting practice</p>\n</li>\n<li class=\"\" data-start=\"477\" data-end=\"502\">\n<p class=\"\" data-start=\"479\" data-end=\"502\">Fun, friendly game play</p>\n</li>\n<li class=\"\" data-start=\"503\" data-end=\"541\">\n<p class=\"\" data-start=\"505\" data-end=\"541\">Opportunities to connect with others</p>\n</li>\n</ul>\n<p class=\"\" data-start=\"543\" data-end=\"689\"><strong data-start=\"543\" data-end=\"579\">Free for UTS Basketball Members!</strong><br data-start=\"579\" data-end=\"582\" />Not a member? No worries! Come try your first session for FREE before deciding to commit to a membership.</p>\n<p class=\"\" data-start=\"691\" data-end=\"837\"><strong data-start=\"691\" data-end=\"760\">Coached by UTS’s very own Intervarsity Women&#8217;s Basketball Players</strong>, you&#8217;ll receive expert guidance in a supportive and encouraging environment.</p>\n<p class=\"\" data-start=\"839\" data-end=\"939\">Don&#8217;t miss out on the chance to get fit, learn basketball, and make lifelong friends. See you there!</p>\n"
+        },
+        {
+          "id": 453814,
+          "title": "UTS Basketball Women’s Learn 2 Play",
+          "url": "https://www.activateuts.com.au/events/uts-basketball-womens-learn-2-play-3/",
+          "start_date": "27/05/2025 9:00 am",
+          "end_date": "27/05/2025 10:00 am",
+          "desc": "<p class=\"\" data-start=\"96\" data-end=\"153\">🏀 <strong data-start=\"99\" data-end=\"150\">Come Along to Our Women&#8217;s Learn 2 Play Program!</strong> 🏀</p>\n<p class=\"\" data-start=\"155\" data-end=\"306\">Looking to improve your basketball skills, stay fit, and make new friends? Join us every <strong data-start=\"244\" data-end=\"276\">Tuesday from 9:00 &#8211; 10:00 AM</strong> for the rest of the semester!</p>\n<p class=\"\" data-start=\"308\" data-end=\"429\">Whether you&#8217;re new to basketball or looking to refine your skills, this program is perfect for you. <strong data-start=\"408\" data-end=\"429\">Sessions include:</strong></p>\n<ul data-start=\"430\" data-end=\"541\">\n<li class=\"\" data-start=\"430\" data-end=\"456\">\n<p class=\"\" data-start=\"432\" data-end=\"456\">Skill-building exercises</p>\n</li>\n<li class=\"\" data-start=\"457\" data-end=\"476\">\n<p class=\"\" data-start=\"459\" data-end=\"476\">Shooting practice</p>\n</li>\n<li class=\"\" data-start=\"477\" data-end=\"502\">\n<p class=\"\" data-start=\"479\" data-end=\"502\">Fun, friendly game play</p>\n</li>\n<li class=\"\" data-start=\"503\" data-end=\"541\">\n<p class=\"\" data-start=\"505\" data-end=\"541\">Opportunities to connect with others</p>\n</li>\n</ul>\n<p class=\"\" data-start=\"543\" data-end=\"689\"><strong data-start=\"543\" data-end=\"579\">Free for UTS Basketball Members!</strong><br data-start=\"579\" data-end=\"582\" />Not a member? No worries! Come try your first session for FREE before deciding to commit to a membership.</p>\n<p class=\"\" data-start=\"691\" data-end=\"837\"><strong data-start=\"691\" data-end=\"760\">Coached by UTS’s very own Intervarsity Women&#8217;s Basketball Players</strong>, you&#8217;ll receive expert guidance in a supportive and encouraging environment.</p>\n<p class=\"\" data-start=\"839\" data-end=\"939\">Don&#8217;t miss out on the chance to get fit, learn basketball, and make lifelong friends. See you there!</p>\n"
+        },
+        {
+          "id": 453809,
+          "title": "UTS Basketball Women’s Learn 2 Play",
+          "url": "https://www.activateuts.com.au/events/uts-basketball-womens-learn-2-play/",
+          "start_date": "03/06/2025 9:00 am",
+          "end_date": "03/06/2025 10:00 am",
+          "desc": "<p class=\"\" data-start=\"96\" data-end=\"153\">🏀 <strong data-start=\"99\" data-end=\"150\">Come Along to Our Women&#8217;s Learn 2 Play Program!</strong> 🏀</p>\n<p class=\"\" data-start=\"155\" data-end=\"306\">Looking to improve your basketball skills, stay fit, and make new friends? Join us every <strong data-start=\"244\" data-end=\"276\">Tuesday from 9:00 &#8211; 10:00 AM</strong> for the rest of the semester!</p>\n<p class=\"\" data-start=\"308\" data-end=\"429\">Whether you&#8217;re new to basketball or looking to refine your skills, this program is perfect for you. <strong data-start=\"408\" data-end=\"429\">Sessions include:</strong></p>\n<ul data-start=\"430\" data-end=\"541\">\n<li class=\"\" data-start=\"430\" data-end=\"456\">\n<p class=\"\" data-start=\"432\" data-end=\"456\">Skill-building exercises</p>\n</li>\n<li class=\"\" data-start=\"457\" data-end=\"476\">\n<p class=\"\" data-start=\"459\" data-end=\"476\">Shooting practice</p>\n</li>\n<li class=\"\" data-start=\"477\" data-end=\"502\">\n<p class=\"\" data-start=\"479\" data-end=\"502\">Fun, friendly game play</p>\n</li>\n<li class=\"\" data-start=\"503\" data-end=\"541\">\n<p class=\"\" data-start=\"505\" data-end=\"541\">Opportunities to connect with others</p>\n</li>\n</ul>\n<p class=\"\" data-start=\"543\" data-end=\"689\"><strong data-start=\"543\" data-end=\"579\">Free for UTS Basketball Members!</strong><br data-start=\"579\" data-end=\"582\" />Not a member? No worries! Come try your first session for FREE before deciding to commit to a membership.</p>\n<p class=\"\" data-start=\"691\" data-end=\"837\"><strong data-start=\"691\" data-end=\"760\">Coached by UTS’s very own Intervarsity Women&#8217;s Basketball Players</strong>, you&#8217;ll receive expert guidance in a supportive and encouraging environment.</p>\n<p class=\"\" data-start=\"839\" data-end=\"939\">Don&#8217;t miss out on the chance to get fit, learn basketball, and make lifelong friends. See you there!</p>\n"
+        },
+        {
+          "id": 453810,
+          "title": "UTS Basketball Women’s Learn 2 Play",
+          "url": "https://www.activateuts.com.au/events/uts-basketball-womens-learn-2-play-2/",
+          "start_date": "10/06/2025 9:00 am",
+          "end_date": "10/06/2025 10:00 am",
+          "desc": "<p class=\"\" data-start=\"96\" data-end=\"153\">🏀 <strong data-start=\"99\" data-end=\"150\">Come Along to Our Women&#8217;s Learn 2 Play Program!</strong> 🏀</p>\n<p class=\"\" data-start=\"155\" data-end=\"306\">Looking to improve your basketball skills, stay fit, and make new friends? Join us every <strong data-start=\"244\" data-end=\"276\">Tuesday from 9:00 &#8211; 10:00 AM</strong> for the rest of the semester!</p>\n<p class=\"\" data-start=\"308\" data-end=\"429\">Whether you&#8217;re new to basketball or looking to refine your skills, this program is perfect for you. <strong data-start=\"408\" data-end=\"429\">Sessions include:</strong></p>\n<ul data-start=\"430\" data-end=\"541\">\n<li class=\"\" data-start=\"430\" data-end=\"456\">\n<p class=\"\" data-start=\"432\" data-end=\"456\">Skill-building exercises</p>\n</li>\n<li class=\"\" data-start=\"457\" data-end=\"476\">\n<p class=\"\" data-start=\"459\" data-end=\"476\">Shooting practice</p>\n</li>\n<li class=\"\" data-start=\"477\" data-end=\"502\">\n<p class=\"\" data-start=\"479\" data-end=\"502\">Fun, friendly game play</p>\n</li>\n<li class=\"\" data-start=\"503\" data-end=\"541\">\n<p class=\"\" data-start=\"505\" data-end=\"541\">Opportunities to connect with others</p>\n</li>\n</ul>\n<p class=\"\" data-start=\"543\" data-end=\"689\"><strong data-start=\"543\" data-end=\"579\">Free for UTS Basketball Members!</strong><br data-start=\"579\" data-end=\"582\" />Not a member? No worries! Come try your first session for FREE before deciding to commit to a membership.</p>\n<p class=\"\" data-start=\"691\" data-end=\"837\"><strong data-start=\"691\" data-end=\"760\">Coached by UTS’s very own Intervarsity Women&#8217;s Basketball Players</strong>, you&#8217;ll receive expert guidance in a supportive and encouraging environment.</p>\n<p class=\"\" data-start=\"839\" data-end=\"939\">Don&#8217;t miss out on the chance to get fit, learn basketball, and make lifelong friends. See you there!</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "cafe-club",
+      "name": "Cafe Club",
+      "url": "https://www.activateuts.com.au/clubs/cafe-club/",
+      "events": [
+        {
+          "id": 456152,
+          "title": "Cafe Club visits Harrys Bondi!",
+          "url": "https://www.activateuts.com.au/events/cafe-club-visits-harrys-bondi/",
+          "start_date": "26/04/2025 11:30 am",
+          "end_date": "26/04/2025 1:00 pm",
+          "desc": "<p>Cafe and Picnic with us!</p>\n"
+        }
+      ]
+    },
+    {
+      "club_id": "gridiron",
+      "name": "Gridiron",
+      "url": "https://www.activateuts.com.au/clubs/gridiron/",
+      "events": null
+    }
+  ]
+}
