@@ -1,6 +1,5 @@
 import json
 import asyncio
-from asyncio import tasks
 import time
 from pathlib import Path
 import datetime
@@ -10,6 +9,7 @@ from scraper import fetch_all_clubs
 BASE_URL = "https://www.activateuts.com.au/wp-json/adrenalin/page?path="
 CLUBS_FILE = "files/club_paths.json"
 REQUEST_LIMIT = 5 
+LATEST_FILE = "data/latest.json"
 
 semaphore = asyncio.Semaphore(REQUEST_LIMIT)
 
@@ -23,10 +23,14 @@ async def main():
     club_urls = load_club_endpoints()
     results = await fetch_all_clubs(club_urls, semaphore=semaphore)
 
-    timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-    filename = f"data/club_data_{timestamp}.json"
+    latest_file = Path(LATEST_FILE)
+    if latest_file.exists():
+        timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+        backup_file = f"data/club_data_{timestamp}.json"
+        latest_file.rename(backup_file)
 
-    with open(filename, "w", encoding="utf-8") as f:
+    
+    with open(latest_file, "w", encoding="utf-8") as f:
         json.dump(results.model_dump(), f, indent=2, ensure_ascii=False)
 
     duration = time.time() - start
