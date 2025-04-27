@@ -39,7 +39,7 @@ python main.py
 ```
 
 The scraper will:
-1. Load club endpoints from `files/club_paths.json`
+1. Load club endpoints from `files/club_paths.json` (data taken from ActivateUTS sitemap)
 2. Fetch event data for each club asynchronously
 3. Save the results to `data/club_data.json`
 
