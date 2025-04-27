@@ -3,6 +3,7 @@ import asyncio
 from asyncio import tasks
 import time
 from pathlib import Path
+import datetime
 
 from scraper import fetch_all_clubs
 
@@ -22,7 +23,10 @@ async def main():
     club_urls = load_club_endpoints()
     results = await fetch_all_clubs(club_urls, semaphore=semaphore)
 
-    with open("data/club_data.json", "w", encoding="utf-8") as f:
+    timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+    filename = f"data/club_data_{timestamp}.json"
+
+    with open(filename, "w", encoding="utf-8") as f:
         json.dump(results.model_dump(), f, indent=2, ensure_ascii=False)
 
     duration = time.time() - start
