@@ -22,7 +22,7 @@ ActivateScraper is an asynchronous web scraper that fetches and processes event 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/activatescraper.git
+git clone https://github.com/tihhh/activatescraper.git
 cd activatescraper
 ```
 
